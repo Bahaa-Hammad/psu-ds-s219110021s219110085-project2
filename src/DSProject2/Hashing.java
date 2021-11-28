@@ -2,12 +2,10 @@ package DSProject2;
 
 public class Hashing {
 
-    private static int p;
-
     public static int intHash(int value){
         // n % p.
 
-        return (value % p);
+        return (value % 383);
 
     }
     public static int stringHash(String str){
@@ -16,7 +14,7 @@ public class Hashing {
         for (int i = 0; i < str.length(); i++) {
             hashedIndex += getAsciiIndex(s[i]) * Math.pow(31, s.length - 1 - i); // p = 383
         }
-        hashedIndex = hashedIndex % p;
+        hashedIndex = hashedIndex % 383;
         return (int) hashedIndex;
     }
 

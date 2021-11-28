@@ -2,6 +2,7 @@ package DSProject2;
 
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.ListIterator;
 
 public class Chaining {
     LinkedList<Node>[] chainedTable;
@@ -144,5 +145,24 @@ public class Chaining {
             }
         }
         return null; // Not found
+    }
+
+
+
+    public void print() {
+
+        for (int i = 0; i < chainedTable.length; i++) {
+            if (chainedTable[i].isEmpty() == true) {
+                System.out.println("Index: " + i + " -> EMPTY!");
+            }
+            else {
+                System.out.print("Index " + i + ": ");
+                Iterator<Node> iterator = chainedTable[i].iterator();
+                while (iterator.hasNext()) {
+                    System.out.print(iterator.next().toString());
+                    System.out.print("->");
+                }
+            }
+        }
     }
 }
