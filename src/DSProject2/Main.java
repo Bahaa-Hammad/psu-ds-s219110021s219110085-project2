@@ -22,7 +22,7 @@ public class Main {
 
         File a = new File("A.CSV");
         ArrayList<Node> fileA = input(a);
-        System.out.println("Reading time: " + time.elapsedTime());
+        //System.out.println("Reading time: " + time.elapsedTime());
 
         // Chaining:
         Chaining hashChaining = new Chaining(input(a).size());
@@ -31,9 +31,9 @@ public class Main {
         }
         //hashChaining.print();
 
-        time = new Time();
+        //time = new Time();
         output(hashChaining);
-        System.out.println("Writing time: " + time.elapsedTime());
+        //System.out.println("Writing time: " + time.elapsedTime());
 
 
         // Propping:
@@ -41,6 +41,12 @@ public class Main {
         for (int i = 0; i < input(a).size(); i++) {
             prop.addConName(fileA.get(i));
         }
+
+        time = new Time();
+        Node n = prop.deleteConName("Zimbabwe");
+        System.out.println("del time: " + time.elapsedTime());
+
+        //System.out.println(n.toString());
         prop.print();
 
 

@@ -8,34 +8,31 @@ public class Probing {
         probedTable = new Node[N];
     }
 
-    public void addConName(Node element){
+    public void addConName(Node element) {
         int hashedIndex = Hashing.stringHash(element.conName);
+        int originalHashedIndex = hashedIndex; // To use it in circling around
+
 
         // Handling collision: By linear Probing
 
-        if (probedTable[hashedIndex] != null){ // Already Taken
-
-            int originalHashedIndex = hashedIndex; // To use it in circling around
-
-            if (hashedIndex == probedTable.length-1){ // last index? circle around the array
+        if (probedTable[hashedIndex] != null) { // Already Taken
+            if (hashedIndex == probedTable.length - 1) { // last index? circle around the array
                 hashedIndex = 0;
-            }
-            else{
+            } else {
                 hashedIndex++;
             }
 
             // If arr[i] is not free; try arr[i+1 mod N], arr[i+2 mod N] …
-            while (probedTable[hashedIndex] != null && originalHashedIndex != hashedIndex){
-                hashedIndex = (hashedIndex+1) % probedTable.length;
+            while (probedTable[hashedIndex] != null && originalHashedIndex != hashedIndex) {
+                hashedIndex = (hashedIndex + 1) % probedTable.length;
             }
-
-            if(probedTable[hashedIndex] != null && originalHashedIndex == hashedIndex){ // Went through all table and non is empty
-                throw new IllegalArgumentException("Probing Hashtable is full");
-            }
-
-            probedTable[hashedIndex] = element;
         }
 
+        if (probedTable[hashedIndex] != null && originalHashedIndex == hashedIndex) { // Went through all table and non is empty
+            throw new IllegalArgumentException("Probing Hashtable is full");
+        }
+
+        probedTable[hashedIndex] = element;
     }
 
 
