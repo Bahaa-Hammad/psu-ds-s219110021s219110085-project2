@@ -8,6 +8,12 @@ import java.util.LinkedList;
 public class Main {
 
     public static void main(String[] args) throws IOException {
+
+        /*
+                                 args[0]       args[1]     args[1]      args[2]              args[3]              args[4]        args[5]
+            java -jar project2 <input file> <output file> <column> <hash table size n> <collision resolution> <prime number p> <remove keys>
+         */
+
         File b = new File("B.CSV");
         File c = new File("C.CSV");
         File d = new File("D.CSV");
