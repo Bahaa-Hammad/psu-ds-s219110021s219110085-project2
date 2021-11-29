@@ -8,21 +8,37 @@ import java.util.LinkedList;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        File a = new File("A.CSV");
         File b = new File("B.CSV");
         File c = new File("C.CSV");
         File d = new File("D.CSV");
-        ArrayList<Node> fileA = input(a);
         //ArrayList<Node> fileB =input(b);
         //ArrayList<Node> fileC =input(c);
         //ArrayList<Node> fileD =input(d);
+        Time time = new Time();
 
+        /*
+            EXP A:
+        */
+
+        File a = new File("A.CSV");
+        ArrayList<Node> fileA = input(a);
+        System.out.println("Reading time: " + time.elapsedTime());
+
+        // Chaining:
         Chaining hashChaining = new Chaining(input(a).size());
         for (int i = 0; i < input(a).size(); i++) {
-        hashChaining.addConCodeHash(fileA.get(i));
+            hashChaining.addConCodeHash(fileA.get(i));
         }
-        hashChaining.print();
+        //hashChaining.print();
+
+        time = new Time();
         output(hashChaining);
+        System.out.println("Writing time: " + time.elapsedTime());
+
+
+        // Propping:
+
+
     }
 
     public static ArrayList input(File file) throws IOException { // Returns ArrayList of nodes containing file data
