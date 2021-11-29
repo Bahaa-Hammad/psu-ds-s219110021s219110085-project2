@@ -341,6 +341,8 @@ public class Probing {
 
         for (int i = 0; i < probedTable.length; i++) {
                 Node node = probedTable[i];
+                if (node == null)
+                    continue;
                 pw.printf("%s, %s ,%d, %f" , node.conName , node.conCode , node.year , node.value);
                 pw.println();
         }

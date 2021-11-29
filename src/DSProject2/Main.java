@@ -15,7 +15,9 @@ public class Main {
          */
 
         // Reading:
+        Time stopwatch = new Time();
         ArrayList<Node> inputData = input(new File(args[0]));
+        System.out.println("Reading: " + stopwatch.elapsedTime());
 
         String outputFileName = args[1];
         int hashingCol = Integer.parseInt(args[2]);
@@ -29,15 +31,19 @@ public class Main {
             }
 
             // Deleting:
+            stopwatch = new Time();
             while (probTable.delete(args[6]) != null){
                 probTable.delete(args[6]);
             }
+            System.out.println("Deleting: " + stopwatch.elapsedTime());
 
             // Writing:
-
+            stopwatch = new Time();
             probTable.output(outputFileName);
+            System.out.println("Writing: " + stopwatch.elapsedTime());
 
-        }else if (args[3].equals("2")) { // Chaining
+
+        }else if (args[4].equals("2")) { // Chaining
             Chaining chainedTable = new Chaining(n , p , hashingCol);
 
             for (int i = 0; i < inputData.size(); i++) {
@@ -45,13 +51,17 @@ public class Main {
             }
 
             // Deleting:
+             stopwatch = new Time();
             while (chainedTable.delete(args[6]) != null){
                 chainedTable.delete(args[6]);
             }
+            System.out.println("Deleting: " + stopwatch.elapsedTime());
 
             // Writing:
-
+            stopwatch = new Time();
             chainedTable.output(outputFileName);
+            System.out.println("Writing: " + stopwatch.elapsedTime());
+
 
         }else {
             throw new IllegalArgumentException("Invalid collision resolution");
