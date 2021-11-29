@@ -89,7 +89,49 @@ public class Probing {
     }
 
 
+    public Node deleteConName(String key){
 
+        // Find the hashedIndex:
+
+        int hashedIndex = Hashing.stringHash(key);
+
+        //  Assuming No collisions:
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conName.equals(key)){ // index not empty and node matches the given key
+            Node del = probedTable[hashedIndex];
+            probedTable[hashedIndex] = new Node("<DEL>");
+            return del;
+        }
+
+        // Collisions Occurred:
+
+        int originalHashedIndex = hashedIndex; // To use it in circling around
+
+        if (hashedIndex == probedTable.length-1){ // last index? circle around the array
+            hashedIndex = 0;
+        }
+        else{
+            hashedIndex++;
+        }
+
+
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].equals(key) == false)
+                && hashedIndex != originalHashedIndex){
+
+            hashedIndex = (hashedIndex+1) % probedTable.length;
+
+        }
+
+        // Check the found hashedIndex:
+
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].equals(key)){
+            Node del = probedTable[hashedIndex];
+            probedTable[hashedIndex] = new Node("<DEL>");
+            return del;
+        }
+        else {
+            return null; // Element not found
+        }
+    }
 
 
     // AUX:

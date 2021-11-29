@@ -37,6 +37,11 @@ public class Main {
 
 
         // Propping:
+        Probing prop = new Probing(input(a).size());
+        for (int i = 0; i < input(a).size(); i++) {
+            prop.addConName(fileA.get(i));
+        }
+        prop.print();
 
 
     }

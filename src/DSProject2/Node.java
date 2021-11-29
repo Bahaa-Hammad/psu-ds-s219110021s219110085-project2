@@ -15,6 +15,18 @@ public class Node{
           this.value = value;
      }
 
+     public Node(String str){
+          if (str == "<DEL>"){
+               this.conName = "<DEL>";
+               this.conCode = "<DEL>";
+               this.year = 0;
+               this.value = 0.0;
+          }
+          else{
+               throw new IllegalArgumentException("Argument Not Accepted");
+          }
+     }
+
      @Override
      public String toString() {
           return "Node{" +
