@@ -1,15 +1,24 @@
 package DSProject2;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.util.Iterator;
+
 public class Probing {
 
     Node[] probedTable;
+    int p;
+    int hashCol;
 
-    public Probing(int N) {
+    public Probing(int N, int p,int hashCol) {
         probedTable = new Node[N];
+        this.p = p;
+        this.hashCol = hashCol;
     }
 
-    public void addConName(Node element) {
-        int hashedIndex = Hashing.stringHash(element.conName);
+    public void add(Node element) {
+        int hashedIndex = Hashing.hash(element , this.p , this.hashCol);
         int originalHashedIndex = hashedIndex; // To use it in circling around
 
 
@@ -38,7 +47,7 @@ public class Probing {
 
     public Node searchConName(String key){
         // Get the hashedKey:
-        int hashedIndex = Hashing.stringHash(key);
+        int hashedIndex = Hashing.stringHash(key, this.p);
 
         // Check Assuming No collisions:
         if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conName.equals(key)){ // index not empty and node matches the given key
@@ -86,11 +95,101 @@ public class Probing {
     }
 
 
+    // Search Using country Code:
+
+    public Node searchConCode(String key){
+        // Get the hashedKey:
+        int hashedIndex = Hashing.stringHash(key, this.p);
+
+        // Check Assuming No collisions:
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conCode.equals(key)){ // index not empty and node matches the given key
+            return probedTable[hashedIndex]; // Found
+        }
+
+
+        int originalHashedIndex = hashedIndex; // To use it in circling around
+
+        if (hashedIndex == probedTable.length-1){ // last index? circle around the array
+            hashedIndex = 0;
+        }
+        else{
+            hashedIndex++;
+        }
+
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].conCode.equals(key) == false)
+                && hashedIndex != originalHashedIndex){
+
+            hashedIndex = (hashedIndex+1) % probedTable.length;
+
+        }
+
+        // Check the found hashedIndex:
+
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conCode.equals(key)){
+            return probedTable[hashedIndex];
+        }
+        else {
+            return null; // Element not found
+        }
+    }
+
+
+    //Search by the year
+    public Node searchYear(int key){
+        // Get the hashedKey:
+        int hashedIndex = Hashing.intHash(key, this.p);
+
+        // Check Assuming No collisions:
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].year == key){ // index not empty and node matches the given key
+            return probedTable[hashedIndex]; // Found
+        }
+
+
+        int originalHashedIndex = hashedIndex; // To use it in circling around
+
+        if (hashedIndex == probedTable.length-1){ // last index? circle around the array
+            hashedIndex = 0;
+        }
+        else{
+            hashedIndex++;
+        }
+
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].year != key)
+                && hashedIndex != originalHashedIndex){
+
+            hashedIndex = (hashedIndex+1) % probedTable.length;
+
+        }
+
+        // Check the found hashedIndex:
+
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].year == key){
+            return probedTable[hashedIndex];
+        }
+        else {
+            return null; // Element not found
+        }
+    }
+
+    public Node search(String key){
+        if (hashCol == 1){
+            return searchConName(key);
+        }
+
+        if (hashCol == 2){
+            return searchConCode(key);
+        }
+        else {
+            return searchYear(Integer.parseInt(key));
+        }
+    }
+
+
     public Node deleteConName(String key){
 
         // Find the hashedIndex:
 
-        int hashedIndex = Hashing.stringHash(key);
+        int hashedIndex = Hashing.stringHash(key , this.p);
 
         //  Assuming No collisions:
         if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conName.equals(key)){ // index not empty and node matches the given key
@@ -130,6 +229,123 @@ public class Probing {
         }
     }
 
+
+    public Node deleteConCode(String key){
+
+        // Find the hashedIndex:
+
+        int hashedIndex = Hashing.stringHash(key , this.p);
+
+        //  Assuming No collisions:
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conCode.equals(key)){ // index not empty and node matches the given key
+            Node del = probedTable[hashedIndex];
+            probedTable[hashedIndex] = new Node("<DEL>");
+            return del;
+        }
+
+        // Collisions Occurred:
+
+        int originalHashedIndex = hashedIndex; // To use it in circling around
+
+        if (hashedIndex == probedTable.length-1){ // last index? circle around the array
+            hashedIndex = 0;
+        }
+        else{
+            hashedIndex++;
+        }
+
+
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].conCode.equals(key) == false)
+                && hashedIndex != originalHashedIndex){
+
+            hashedIndex = (hashedIndex+1) % probedTable.length;
+
+        }
+
+        // Check the found hashedIndex:
+
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conCode.equals(key)){
+            Node del = probedTable[hashedIndex];
+            probedTable[hashedIndex] = new Node("<DEL>");
+            return del;
+        }
+        else {
+            return null; // Element not found
+        }
+    }
+
+
+    public Node deleteYear(int key){
+
+        // Find the hashedIndex:
+
+        int hashedIndex = Hashing.intHash(key , this.p);
+
+        //  Assuming No collisions:
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].year == key){ // index not empty and node matches the given key
+            Node del = probedTable[hashedIndex];
+            probedTable[hashedIndex] = new Node("<DEL>");
+            return del;
+        }
+
+        // Collisions Occurred:
+
+        int originalHashedIndex = hashedIndex; // To use it in circling around
+
+        if (hashedIndex == probedTable.length-1){ // last index? circle around the array
+            hashedIndex = 0;
+        }
+        else{
+            hashedIndex++;
+        }
+
+
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].year != key)
+                && hashedIndex != originalHashedIndex){
+
+            hashedIndex = (hashedIndex+1) % probedTable.length;
+
+        }
+
+        // Check the found hashedIndex:
+
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].year == key){
+            Node del = probedTable[hashedIndex];
+            probedTable[hashedIndex] = new Node("<DEL>");
+            return del;
+        }
+        else {
+            return null; // Element not found
+        }
+    }
+
+
+    public Node delete(String key){
+        if (hashCol == 1){
+            return deleteConName(key);
+        }
+
+        if (hashCol == 2){
+            return deleteConCode(key);
+        }
+        else {
+            return deleteYear(Integer.parseInt(key));
+        }
+    }
+
+
+
+    public  void output(String fileName) throws FileNotFoundException {
+        File outCSV = new File(fileName);
+        PrintWriter pw = new PrintWriter(outCSV);
+
+        for (int i = 0; i < probedTable.length; i++) {
+                Node node = probedTable[i];
+                pw.printf("%s, %s ,%d, %f" , node.conName , node.conCode , node.year , node.value);
+                pw.println();
+        }
+        pw.close();
+    }
 
     // AUX:
 
