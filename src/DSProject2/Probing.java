@@ -68,7 +68,7 @@ public class Probing {
                                      3) We must not circle back to the original index, if we did, then it does not exist
          */
 
-        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].equals(key) == false)
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].conName.equals(key) == false)
                 && hashedIndex != originalHashedIndex){
 
             hashedIndex = (hashedIndex+1) % probedTable.length;
@@ -77,7 +77,7 @@ public class Probing {
 
         // Check the found hashedIndex:
 
-        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].equals(key)){
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conName.equals(key)){
             return probedTable[hashedIndex];
         }
         else {
@@ -111,7 +111,7 @@ public class Probing {
         }
 
 
-        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].equals(key) == false)
+        while (probedTable[hashedIndex] != null && (probedTable[hashedIndex].conName.equals(key) == false)
                 && hashedIndex != originalHashedIndex){
 
             hashedIndex = (hashedIndex+1) % probedTable.length;
@@ -120,7 +120,7 @@ public class Probing {
 
         // Check the found hashedIndex:
 
-        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].equals(key)){
+        if (probedTable[hashedIndex] != null && probedTable[hashedIndex].conName.equals(key)){
             Node del = probedTable[hashedIndex];
             probedTable[hashedIndex] = new Node("<DEL>");
             return del;

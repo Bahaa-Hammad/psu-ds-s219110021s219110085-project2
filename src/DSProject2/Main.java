@@ -44,9 +44,9 @@ public class Main {
 
         time = new Time();
         Node n = prop.deleteConName("Zimbabwe");
-        System.out.println("del time: " + time.elapsedTime());
+        System.out.println("del time in nano: " + time.elapsedTimeNano());
 
-        //System.out.println(n.toString());
+        System.out.println(n.toString());
         prop.print();
 
 
