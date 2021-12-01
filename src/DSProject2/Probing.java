@@ -3,6 +3,7 @@ package DSProject2;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.Arrays;
 import java.util.Iterator;
 
 public class Probing {
@@ -25,11 +26,13 @@ public class Probing {
         // Handling collision: By linear Probing
 
         if (probedTable[hashedIndex] != null) { // Already Taken
+
             if (hashedIndex == probedTable.length - 1) { // last index? circle around the array
                 hashedIndex = 0;
             } else {
                 hashedIndex++;
             }
+
 
             // If arr[i] is not free; try arr[i+1 mod N], arr[i+2 mod N] …
             while (probedTable[hashedIndex] != null && originalHashedIndex != hashedIndex) {
@@ -340,11 +343,15 @@ public class Probing {
         PrintWriter pw = new PrintWriter(outCSV);
 
         for (int i = 0; i < probedTable.length; i++) {
-                Node node = probedTable[i];
-                if (node == null)
-                    continue;
-                pw.printf("%s, %s ,%d, %f" , node.conName , node.conCode , node.year , node.value);
-                pw.println();
+            Node node = probedTable[i];
+            if (node == null)
+                continue;
+            pw.printf("%s, %s, %d" , node.conName , node.conCode , node.year);
+
+            for (int j = 0; j < node.value.length; j++) {
+                pw.print(", " + node.value[j]);
+            }
+            pw.println();
         }
         pw.close();
     }

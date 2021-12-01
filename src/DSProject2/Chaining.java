@@ -3,12 +3,12 @@ package DSProject2;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.LinkedList;
-import java.util.ListIterator;
 
 public class Chaining {
-    LinkedList<Node>[] chainedTable;
+    LinkedList<Node>[] chainedTable;  // Array Of linkedLists
     int p;
     int hashCol;
 
@@ -193,10 +193,16 @@ public class Chaining {
         PrintWriter pw = new PrintWriter(outCSV);
 
         for (int i = 0; i < chainedTable.length; i++) {
+
             Iterator iter = chainedTable[i].iterator();
             while (iter.hasNext()){
                 Node node = (Node) iter.next();
-                pw.printf("%s, %s ,%d, %f" , node.conName , node.conCode , node.year , node.value);
+                pw.printf("%s, %s, %d" , node.conName , node.conCode , node.year);
+
+                for (int j = 0; j < node.value.length; j++) {
+                    pw.print(", " + node.value[j]);
+                }
+
                 pw.println();
             }
         }
