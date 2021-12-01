@@ -183,7 +183,7 @@ public class Probing {
             return searchConCode(key);
         }
         else {
-            return searchYear(Integer.parseInt(key));
+            return searchYear(Integer.parseInt(key.trim()));
         }
     }
 
@@ -332,7 +332,7 @@ public class Probing {
             return deleteConCode(key);
         }
         else {
-            return deleteYear(Integer.parseInt(key));
+            return deleteYear(Integer.parseInt(key.trim()));
         }
     }
 

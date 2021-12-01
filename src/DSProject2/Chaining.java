@@ -94,7 +94,7 @@ public class Chaining {
             return searchConCode(key);
         }
         else {
-            return searchYear(Integer.parseInt(key));
+            return searchYear(Integer.parseInt(key.trim()));
         }
     }
 
@@ -164,7 +164,7 @@ public class Chaining {
             return deleteConCode(key);
         }
         else {
-            return deleteYear(Integer.parseInt(key));
+            return deleteYear(Integer.parseInt(key.trim()));
         }
     }
 

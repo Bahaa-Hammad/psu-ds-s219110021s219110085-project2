@@ -3,8 +3,6 @@ package DSProject2;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
-import java.util.LinkedList;
 
 public class Main {
 
@@ -13,14 +11,31 @@ public class Main {
         /*
                                  args[0]       args[1]     args[2]      args[3]              args[4]              args[5]        args[6]
             java -jar project2 <input file> <output file> <column> <hash table size n> <collision resolution> <prime number p> <remove keys>
+
+
          */
 
 
-        /*
+        // Handling Input:
+        int numCellInput = args.length - 6;   // Number of cells that contains remove keys
+        String cells = "";
+
+        for (int i = 0; i < numCellInput; i++) {
+            String key = args[6 + i].concat(" ");
+             cells = cells.concat(key);
+        }
+
+        cells = cells.trim(); // To get rid of extra spaces
+        String[] removeKeys = cells.split(",");
+        System.out.println(Arrays.toString(removeKeys));
+
+
+
         // Reading:
+        System.out.println("Reading data...");
         Time stopwatch = new Time();
         ArrayList<Node> inputData = input(new File(args[0]));
-        System.out.println("Reading: " + stopwatch.elapsedTime());
+        System.out.println("Total time to read data: " + stopwatch.elapsedTime() + " seconds");
 
         String outputFileName = args[1];
         int hashingCol = Integer.parseInt(args[2]);
@@ -28,25 +43,34 @@ public class Main {
         int p = Integer.parseInt(args[5]);
 
         if (args[4].equals("1")){ //Probing
-            Probing probTable = new Probing(n , p, hashingCol);
 
+            Probing probTable = new Probing(n , p, hashingCol);
             // Adding input into PropHashTable
             for (int i = 0; i < inputData.size(); i++) {
                 probTable.add(inputData.get(i));
             }
 
             // Deleting:
+            System.out.println("Searching and removing "+ cells +"...");
             stopwatch = new Time();
             // Loop to delete all nodes with the given key
-            while (probTable.delete(args[6]) != null){
-                probTable.delete(args[6]);
+            for (int i = 0; i < removeKeys.length; i++) {
+
+                while (probTable.delete(removeKeys[i]) != null){
+                    probTable.delete(removeKeys[i]);
+                }
             }
-            System.out.println("Deleting: " + stopwatch.elapsedTime());
+            System.out.println("Total time to remove data: " + stopwatch.elapsedTime() + " seconds");
+
+            for (int i = 0; i < removeKeys.length; i++) {
+                System.out.println("Prop: " +probTable.search(removeKeys[i]));
+            }
 
             // Writing:
+            System.out.println("Writing data to output file...");
             stopwatch = new Time();
             probTable.output(outputFileName);
-            System.out.println("Writing: " + stopwatch.elapsedTime());
+            System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
 
         }else if (args[4].equals("2")) { // Chaining
@@ -56,69 +80,30 @@ public class Main {
                 chainedTable.add(inputData.get(i));
             }
 
+
             // Deleting:
-             stopwatch = new Time();
-            while (chainedTable.delete(args[6]) != null){
-                chainedTable.delete(args[6]);
+            System.out.println("Searching and removing "+ cells +"...");
+            stopwatch = new Time();
+            for (int i = 0; i < removeKeys.length; i++) {
+
+                while (chainedTable.delete(removeKeys[i]) != null){
+                    chainedTable.delete(removeKeys[i]);
+                }
             }
-            System.out.println("Deleting: " + stopwatch.elapsedTime());
+            System.out.println("Total time to remove data: " + stopwatch.elapsedTime() + " seconds");
+
+            for (int i = 0; i < removeKeys.length; i++) {
+                System.out.println("Chain: " + chainedTable.search(removeKeys[i]));
+            }
+
 
             // Writing:
             stopwatch = new Time();
             chainedTable.output(outputFileName);
-            System.out.println("Writing: " + stopwatch.elapsedTime());
-
-
+            System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
         }else {
             throw new IllegalArgumentException("Invalid collision resolution");
         }
-
-         */
-
-
-
-
-
-        //Testing:
-
-        File a = new File("A.CSV");
-        File b = new File("B.CSV");
-        File c = new File("C.CSV");
-        File d = new File("D.CSV");
-
-        Time time = new Time();
-
-
-        //EXP A:
-
-        ArrayList<Node> file = input(d);
-        //System.out.println("Reading time: " + time.elapsedTime());
-
-        // Chaining:
-        //Chaining hashChaining = new Chaining(input(a).size() , 263 , 1);
-        //for (int i = 0; i < input(a).size(); i++) {
-        //    hashChaining.add(fileA.get(i));
-        // }
-        //hashChaining.print();
-
-        //time = new Time();
-        // System.out.println("Writing time: " + time.elapsedTime());
-
-
-
-        //Propping:
-        Probing prop = new Probing(file.size() , 7 , 1);
-        for (int i = 0; i < file.size(); i++) {
-            prop.add(file.get(i));
-        }
-
-        time = new Time();
-        Node delN = prop.deleteConName("Zimbabwe");
-        System.out.println("del time in nano: " + time.elapsedTimeNano());
-
-        System.out.println(delN.toString());
-        prop.print();
-        prop.output("fileDTest.csv");
     }
 
 
