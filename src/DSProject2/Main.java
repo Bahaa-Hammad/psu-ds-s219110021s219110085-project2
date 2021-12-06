@@ -37,8 +37,8 @@ public class Main {
         ArrayList<Node> inputData = input(new File(args[0]));
 
         // jar reading:
-        //InputStream in = Main.class.getClass().getResourceAsStream(args[0]);
-        //ArrayList<Node> inputData = input(in);
+        //InputStream inputStream = Main.class.getClass().getResourceAsStream("\\" + args[0]);
+        //ArrayList<Node> inputData = input(inputStream);
 
         System.out.println("Total time to read data: " + stopwatch.elapsedTime() + " seconds");
 
