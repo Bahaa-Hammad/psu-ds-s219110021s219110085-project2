@@ -35,6 +35,11 @@ public class Main {
         System.out.println("Reading data...");
         Time stopwatch = new Time();
         ArrayList<Node> inputData = input(new File(args[0]));
+
+        // jar reading:
+        //InputStream in = Main.class.getClass().getResourceAsStream(args[0]);
+        //ArrayList<Node> inputData = input(in);
+
         System.out.println("Total time to read data: " + stopwatch.elapsedTime() + " seconds");
 
         String outputFileName = args[1];
@@ -129,4 +134,19 @@ public class Main {
         }
         return nodes;
     }
+
+
+    public static ArrayList input(InputStream in) throws IOException { // Returns ArrayList of nodes containing file data
+        BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+        String line = " ";
+        String[] input;
+        ArrayList<Node> nodes = new ArrayList<>();
+        while ((line = reader.readLine()) != null) {
+            input = line.split(","); // CSV
+            Node node = new Node(input);
+            nodes.add(node);
+        }
+        return nodes;
+    }
+
 }
