@@ -11,14 +11,17 @@ public class Chaining {
     LinkedList<Node>[] chainedTable;  // Array Of linkedLists
     int p;
     int hashCol;
+    double occupiedCells;
+    int hashtableSize;
 
     // Constructor:
-    public Chaining(int n , int p , int hashCol){
+    public Chaining(int hashtableSize , int p , int hashCol){
+        this.hashtableSize = hashtableSize;
         // Creating array
-        chainedTable = new LinkedList[n];
+        chainedTable = new LinkedList[hashtableSize];
 
         // Creating LinkedList at each index in an array:
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < hashtableSize; i++) {
             chainedTable[i] = new LinkedList<Node>();
         }
 
@@ -169,6 +172,23 @@ public class Chaining {
     }
 
 
+    /*
+      Load-factor: If n is the total number of buckets and k is the number of buckets that have data;
+      then Load-factor is k/n.
+       Example; if n is 10 and k is 7, then load factor is 0.7.
+   */
+    public double loadFactor(){
+
+        for (int i = 0; i < hashtableSize; i++) {
+            if (chainedTable[i].peek() != null){
+                occupiedCells++;
+            }
+        }
+
+        return (this.occupiedCells / this.hashtableSize);
+    }
+
+
 
     public void print() {
 
@@ -178,9 +198,9 @@ public class Chaining {
             }
             else {
                 System.out.print("Index " + i + ": ");
-                Iterator<Node> iterator = chainedTable[i].iterator();
-                while (iterator.hasNext()) {
-                    System.out.print(iterator.next().toString());
+                Iterator<Node> iter = chainedTable[i].iterator();
+                while (iter.hasNext()) {
+                    System.out.print(iter.next().toString());
                     System.out.print("->");
                 }
             }

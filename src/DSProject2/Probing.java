@@ -11,9 +11,12 @@ public class Probing {
     Node[] probedTable;
     int p;
     int hashCol;
+    int occupiedCells;
+    int hashtableSize;
 
-    public Probing(int N, int p,int hashCol) {
-        probedTable = new Node[N];
+    public Probing(int hashtableSize, int p,int hashCol) {
+        this.hashtableSize = hashtableSize;
+        probedTable = new Node[hashtableSize];
         this.p = p;
         this.hashCol = hashCol;
     }
@@ -45,6 +48,7 @@ public class Probing {
         }
 
         probedTable[hashedIndex] = element;
+        occupiedCells++;
     }
 
 
@@ -334,6 +338,16 @@ public class Probing {
         else {
             return deleteYear(Integer.parseInt(key.trim()));
         }
+    }
+
+
+    /*
+       Load-factor: If n is the total number of buckets and k is the number of buckets that have data;
+       then Load-factor is k/n.
+        Example; if n is 10 and k is 7, then load factor is 0.7.
+    */
+    public double loadFactor(){
+        return ((double) this.occupiedCells / this.hashtableSize);
     }
 
 

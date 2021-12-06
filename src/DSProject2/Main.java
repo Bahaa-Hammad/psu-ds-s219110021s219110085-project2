@@ -73,6 +73,9 @@ public class Main {
             System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
 
+            System.out.println("Propping Load Factor: " + probTable.loadFactor());
+            System.out.println("Occupied In Probing: " + probTable.occupiedCells);
+
         }else if (args[4].equals("2")) { // Chaining
             Chaining chainedTable = new Chaining(n , p , hashingCol);
 
@@ -101,6 +104,12 @@ public class Main {
             stopwatch = new Time();
             chainedTable.output(outputFileName);
             System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
+
+
+            System.out.println("Chaining Load Factor: " + chainedTable.loadFactor());
+            System.out.println("Occupied in ChainTable "+chainedTable.occupiedCells);
+
+
         }else {
             throw new IllegalArgumentException("Invalid collision resolution");
         }
