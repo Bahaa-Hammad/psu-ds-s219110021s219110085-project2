@@ -1,728 +1,103 @@
-Yemen, YEM, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Tanzania, TZA, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Greece, GRC, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Colombia, COL, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bulgaria, BGR, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Bahamas, BHS, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1917, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1919, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1920, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1921, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1922, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1924, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1925, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1926, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1927, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1928, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1930, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1931, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1932, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1933, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1934, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1935, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1936, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1937, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1938, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1939, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1940, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1941, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1942, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1943, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1944, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1945, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1946, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1947, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1948, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1949, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1950, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1951, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1952, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1953, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1954, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1955, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1956, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antigua and Barbuda, ATG, 1957, 0.0, 0.0, 0.0, 0.0, 21984.0, 0.0
-Antigua and Barbuda, ATG, 1958, 0.0, 0.0, 0.0, 0.0, 29312.0, 0.0
-Antigua and Barbuda, ATG, 1959, 0.0, 0.0, 0.0, 0.0, 29312.0, 0.0
-Antigua and Barbuda, ATG, 1960, 0.0, 0.0, 0.0, 0.0, 36640.0, 0.0
-Antigua and Barbuda, ATG, 1961, 0.0, 0.0, 0.0, 0.0, 47632.0, 0.0
-Antigua and Barbuda, ATG, 1962, 0.0, 0.0, 0.0, 0.0, 102592.0, 0.0
-Antigua and Barbuda, ATG, 1963, 0.0, 0.0, 0.0, 0.0, 84272.0, 0.0
-Antigua and Barbuda, ATG, 1964, 0.0, 0.0, 0.0, 0.0, 91600.0, 0.0
-Antigua and Barbuda, ATG, 1965, 0.0, 0.0, 0.0, 0.0, 150224.0, 0.0
-Antigua and Barbuda, ATG, 1966, 0.0, 0.0, 0.0, 0.0, 348080.0, 0.0
-Antigua and Barbuda, ATG, 1967, 0.0, 0.0, 0.0, 0.0, 564256.0, 0.0
-Antigua and Barbuda, ATG, 1968, 0.0, 0.0, 0.0, 0.0, 989280.0, 0.0
-Antigua and Barbuda, ATG, 1969, 0.0, 0.0, 0.0, 0.0, 1256752.0, 0.0
-Antigua and Barbuda, ATG, 1970, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
-Antigua and Barbuda, ATG, 1971, 0.0, 0.0, 0.0, 0.0, 425024.0, 0.0
-Antigua and Barbuda, ATG, 1972, 0.0, 0.0, 0.0, 0.0, 373728.0, 0.0
-Antigua and Barbuda, ATG, 1973, 0.0, 0.0, 0.0, 0.0, 329760.0, 0.0
-Antigua and Barbuda, ATG, 1974, 0.0, 0.0, 0.0, 0.0, 428688.0, 0.0
-Antigua and Barbuda, ATG, 1975, 0.0, 0.0, 0.0, 0.0, 707152.0, 0.0
-Antigua and Barbuda, ATG, 1976, 0.0, 0.0, 0.0, 0.0, 403040.0, 0.0
-Antigua and Barbuda, ATG, 1977, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
-Antigua and Barbuda, ATG, 1978, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
-Antigua and Barbuda, ATG, 1979, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
-Antigua and Barbuda, ATG, 1980, 0.0, 0.0, 0.0, 0.0, 142896.0, 0.0
-Antigua and Barbuda, ATG, 1981, 0.0, 0.0, 0.0, 0.0, 106256.0, 0.0
-Antigua and Barbuda, ATG, 1982, 0.0, 0.0, 0.0, 0.0, 293120.0, 0.0
-Antigua and Barbuda, ATG, 1983, 0.0, 0.0, 0.0, 0.0, 84272.0, 0.0
-Antigua and Barbuda, ATG, 1984, 0.0, 0.0, 0.0, 0.0, 146560.0, 0.0
-Antigua and Barbuda, ATG, 1985, 0.0, 0.0, 0.0, 0.0, 249152.0, 0.0
-Antigua and Barbuda, ATG, 1986, 0.0, 0.0, 0.0, 0.0, 249152.0, 0.0
-Antigua and Barbuda, ATG, 1987, 0.0, 0.0, 0.0, 0.0, 274800.0, 0.0
-Antigua and Barbuda, ATG, 1988, 0.0, 0.0, 0.0, 0.0, 285792.0, 0.0
-Antigua and Barbuda, ATG, 1989, 0.0, 0.0, 0.0, 0.0, 285792.0, 0.0
-Antigua and Barbuda, ATG, 1990, 0.0, 0.0, 0.0, 0.0, 219840.0, 0.0
-Antigua and Barbuda, ATG, 1991, 0.0, 0.0, 0.0, 0.0, 212512.0, 0.0
-Antigua and Barbuda, ATG, 1992, 0.0, 0.0, 0.0, 0.0, 208848.0, 0.0
-Antigua and Barbuda, ATG, 1993, 0.0, 0.0, 0.0, 0.0, 216176.0, 0.0
-Antigua and Barbuda, ATG, 1994, 0.0, 0.0, 0.0, 0.0, 216176.0, 0.0
-Antigua and Barbuda, ATG, 1995, 0.0, 0.0, 0.0, 0.0, 223504.0, 0.0
-Antigua and Barbuda, ATG, 1996, 0.0, 0.0, 0.0, 0.0, 238160.0, 0.0
-Antigua and Barbuda, ATG, 1997, 0.0, 0.0, 0.0, 0.0, 256480.0, 0.0
-Antigua and Barbuda, ATG, 1998, 0.0, 0.0, 0.0, 0.0, 271136.0, 0.0
-Antigua and Barbuda, ATG, 1999, 0.0, 0.0, 0.0, 0.0, 282128.0, 0.0
-Antigua and Barbuda, ATG, 2000, 0.0, 0.0, 0.0, 0.0, 293120.0, 0.0
-Antigua and Barbuda, ATG, 2001, 0.0, 0.0, 0.0, 0.0, 296784.0, 0.0
-Antigua and Barbuda, ATG, 2002, 0.0, 0.0, 0.0, 0.0, 329760.0, 0.0
-Antigua and Barbuda, ATG, 2003, 0.0, 0.0, 0.0, 0.0, 351744.0, 0.0
-Antigua and Barbuda, ATG, 2004, 0.0, 0.0, 0.0, 0.0, 366400.0, 0.0
-Antigua and Barbuda, ATG, 2005, 0.0, 0.0, 0.0, 0.0, 373728.0, 0.0
-Antigua and Barbuda, ATG, 2006, 0.0, 0.0, 0.0, 0.0, 384720.0, 0.0
-Antigua and Barbuda, ATG, 2007, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
-Antigua and Barbuda, ATG, 2008, 0.0, 0.0, 0.0, 0.0, 417696.0, 0.0
-Antigua and Barbuda, ATG, 2009, 0.0, 0.0, 0.0, 0.0, 443344.0, 0.0
-Antigua and Barbuda, ATG, 2010, 0.0, 0.0, 0.0, 0.0, 454336.0, 0.0
-Antigua and Barbuda, ATG, 2011, 0.0, 0.0, 0.0, 0.0, 443344.0, 0.0
-Antigua and Barbuda, ATG, 2012, 0.0, 0.0, 0.0, 0.0, 458000.0, 0.0
-Antigua and Barbuda, ATG, 2013, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
-Antigua and Barbuda, ATG, 2014, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
-Antigua and Barbuda, ATG, 2015, 0.0, 0.0, 0.0, 0.0, 479984.0, 0.0
-Antigua and Barbuda, ATG, 2016, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
-Antigua and Barbuda, ATG, 2017, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
-Antigua and Barbuda, ATG, 2018, 0.0, 0.0, 0.0, 0.0, 498304.0, 0.0
-Antigua and Barbuda, ATG, 2019, 0.0, 0.0, 0.0, 0.0, 486373.0, 0.0
-Antigua and Barbuda, ATG, 2020, 0.0, 0.0, 0.0, 0.0, 430410.0, 0.0
-Argentina, ARG, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1887, 1084544.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1888, 890352.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1889, 1755056.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1890, 1370336.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1891, 937984.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1892, 1384992.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1893, 1553536.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1894, 1993216.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1895, 2264352.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1896, 2304656.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1897, 2081152.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1898, 2348624.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1899, 2920208.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1900, 2070160.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1901, 2491520.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1902, 2813952.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1903, 2861584.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1904, 3795904.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1905, 3982768.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1906, 6254448.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1907, 6254448.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Argentina, ARG, 1908, 7610128.0, 0.0, 0.0, 0.0, 7328.0, 0.0
-Argentina, ARG, 1909, 5924695.0, 0.0, 0.0, 0.0, 10985.0, 0.0
-Argentina, ARG, 1910, 8896197.0, 0.0, 0.0, 0.0, 10987.0, 0.0
-Argentina, ARG, 1911, 9936768.0, 0.0, 0.0, 0.0, 7328.0, 0.0
-Argentina, ARG, 1912, 9456784.0, 0.0, 0.0, 0.0, 21984.0, 0.0
-Argentina, ARG, 1913, 1.0086971E7, 0.0, 0.0, 0.0, 58645.0, 0.0
-Argentina, ARG, 1914, 8548059.0, 3666.0, 0.0, 0.0, 120963.0, 0.0
-Argentina, ARG, 1915, 6701330.0, 10998.0, 0.0, 0.0, 227288.0, 0.0
-Argentina, ARG, 1916, 4587034.0, 14667.0, 0.0, 0.0, 385003.0, 0.0
-Argentina, ARG, 1917, 1663456.0, 25648.0, 0.0, 0.0, 542272.0, 0.0
-Argentina, ARG, 1918, 1890624.0, 29312.0, 0.0, 0.0, 600896.0, 0.0
-Argentina, ARG, 1919, 3103408.0, 29312.0, 0.0, 0.0, 593568.0, 0.0
-Argentina, ARG, 1920, 5122272.0, 36640.0, 0.0, 0.0, 732800.0, 0.0
-Argentina, ARG, 1921, 4565344.0, 47632.0, 0.0, 0.0, 926992.0, 0.0
-Argentina, ARG, 1922, 5888756.0, 62257.0, 0.0, 0.0, 1347675.0, 0.0
-Argentina, ARG, 1923, 6843657.0, 76977.0, 0.0, 0.0, 1524886.0, 0.0
-Argentina, ARG, 1924, 8753296.0, 128240.0, 0.0, 0.0, 2077488.0, 0.0
-Argentina, ARG, 1925, 8350256.0, 164880.0, 0.0, 0.0, 2722352.0, 0.0
-Argentina, ARG, 1926, 7451337.0, 293215.0, 0.0, 0.0, 3514920.0, 0.0
-Argentina, ARG, 1927, 9257800.0, 260215.0, 0.0, 0.0, 3855584.0, 0.0
-Argentina, ARG, 1928, 8284304.0, 296784.0, 116297.0, 0.0, 4041392.0, 0.0
-Argentina, ARG, 1929, 8320944.0, 458000.0, 174446.0, 0.0, 4176960.0, 0.0
-Argentina, ARG, 1930, 8119424.0, 454336.0, 188983.0, 0.0, 4004752.0, 0.0
-Argentina, ARG, 1931, 6946944.0, 564256.0, 265303.0, 0.0, 5067312.0, 0.0
-Argentina, ARG, 1932, 6331392.0, 769440.0, 247131.0, 0.0, 5752480.0, 0.0
-Argentina, ARG, 1933, 5959314.0, 1033534.0, 254470.0, 0.0, 5984969.0, 0.0
-Argentina, ARG, 1934, 6580544.0, 1249424.0, 279840.0, 0.0, 6129872.0, 0.0
-Argentina, ARG, 1935, 6336714.0, 1055508.0, 356253.0, 0.0, 6248755.0, 0.0
-Argentina, ARG, 1936, 6987248.0, 912336.0, 410674.0, 0.0, 6785728.0, 0.0
-Argentina, ARG, 1937, 8157940.0, 864514.0, 512322.0, 0.0, 7176203.0, 0.0
-Argentina, ARG, 1938, 7395609.0, 839244.0, 614332.0, 0.0, 7498224.0, 0.0
-Argentina, ARG, 1939, 7764016.0, 886688.0, 556045.0, 0.0, 8170720.0, 0.0
-Argentina, ARG, 1940, 5369000.0, 916212.0, 534363.0, 0.0, 9044840.0, 0.0
-Argentina, ARG, 1941, 2685712.0, 1014928.0, 577851.0, 0.0, 9661968.0, 0.0
-Argentina, ARG, 1942, 1385368.0, 1154474.0, 530750.0, 0.0, 1.0408588E7, 0.0
-Argentina, ARG, 1943, 1549469.0, 1157523.0, 472334.0, 0.0, 1.0897564E7, 0.0
-Argentina, ARG, 1944, 1648800.0, 1132176.0, 534240.0, 0.0, 1.0636592E7, 0.0
-Argentina, ARG, 1945, 2044512.0, 1040576.0, 537874.0, 0.0, 1.0043024E7, 0.0
-Argentina, ARG, 1946, 3041120.0, 967296.0, 563314.0, 0.0, 9130688.0, 0.0
-Argentina, ARG, 1947, 3254453.0, 996860.0, 672512.0, 0.0, 9591108.0, 0.0
-Argentina, ARG, 1948, 5814768.0, 765776.0, 617828.0, 0.0, 1.0193248E7, 0.0
-Argentina, ARG, 1949, 3598048.0, 1135840.0, 715954.0, 0.0, 9914784.0, 0.0
-Argentina, ARG, 1950, 3561408.0, 0.0, 777737.0, 0.0, 2.5582048E7, 0.0
-Argentina, ARG, 1951, 5470352.0, 1417968.0, 770468.0, 0.0, 2.7304128E7, 0.0
-Argentina, ARG, 1952, 4506720.0, 1535216.0, 766834.0, 0.0, 2.9286352E7, 0.0
-Argentina, ARG, 1953, 3114400.0, 1194464.0, 817714.0, 0.0, 3.000816E7, 0.0
-Argentina, ARG, 1954, 3722253.0, 1208999.0, 843070.0, 0.0, 3.0976032E7, 0.0
-Argentina, ARG, 1955, 3209664.0, 1227440.0, 923108.0, 0.0, 3.4199776E7, 0.0
-Argentina, ARG, 1956, 3814224.0, 1304384.0, 1021234.0, 0.0, 3.8156896E7, 0.0
-Argentina, ARG, 1957, 3359888.0, 1458272.0, 1170239.0, 0.0, 4.1619376E7, 0.0
-Argentina, ARG, 1958, 3781248.0, 1480256.0, 1221119.0, 0.0, 3.7709888E7, 0.0
-Argentina, ARG, 1959, 3729952.0, 1472928.0, 1170239.0, 0.0, 4.257568E7, 0.0
-Argentina, ARG, 1960, 3905824.0, 2363280.0, 1304708.0, 0.0, 4.1190688E7, 0.0
-Argentina, ARG, 1961, 3539424.0, 4030400.0, 1435542.0, 0.0, 4.2121344E7, 0.0
-Argentina, ARG, 1962, 2007872.0, 5107616.0, 1446445.0, 0.0, 4.5078192E7, 0.0
-Argentina, ARG, 1963, 2304656.0, 5829424.0, 1253828.0, 0.0, 4.0644752E7, 0.0
-Argentina, ARG, 1964, 2557304.0, 6466534.0, 1439082.0, 0.0, 4.5207121E7, 0.0
-Argentina, ARG, 1965, 2601440.0, 7247392.0, 1631794.0, 0.0, 4.7324224E7, 0.0
-Argentina, ARG, 1966, 2586784.0, 7848288.0, 1722651.0, 2344960.0, 4.8569984E7, 0.0
-Argentina, ARG, 1967, 2938857.0, 8208278.0, 1755556.0, 2795945.0, 4.9777346E7, 0.0
-Argentina, ARG, 1968, 2366944.0, 9141680.0, 2064273.0, 2876240.0, 5.256008E7, 0.0
-Argentina, ARG, 1969, 2590448.0, 9105040.0, 2147862.0, 2832272.0, 6.0573248E7, 0.0
-Argentina, ARG, 1970, 3286608.0, 1.0281184E7, 2344113.0, 2810288.0, 6.3925808E7, 0.0
-Argentina, ARG, 1971, 2927536.0, 1.1021312E7, 2735801.0, 2843264.0, 6.9319216E7, 0.0
-Argentina, ARG, 1972, 2857920.0, 1.2468592E7, 2698560.0, 2744336.0, 6.9297232E7, 0.0
-Argentina, ARG, 1973, 2879904.0, 1.4187008E7, 2570099.0, 3129056.0, 7.120984E7, 0.0
-Anguilla, AIA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Puerto Rico, PRI, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Kuwait, KWT, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antarctica, ATA, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Angola, AGO, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Andorra, AND, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Andorra, AND, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Andorra, AND, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -750,530 +125,6 @@ Andorra, AND, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Andorra, AND, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Andorra, AND, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Andorra, AND, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1917, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1919, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1920, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1921, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1922, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1924, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1925, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1926, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1927, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1928, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1930, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1931, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1932, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1933, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1934, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1935, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1936, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1937, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1938, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1939, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1940, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1941, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1942, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1943, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1944, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1945, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1946, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1947, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1948, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1949, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1950, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1951, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1952, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1953, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1954, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1955, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1956, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1957, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1958, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1959, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1960, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1961, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1962, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1963, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1964, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1965, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1966, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1967, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1968, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1969, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1970, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1971, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1972, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1973, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1974, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1975, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1976, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1977, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1978, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1979, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1980, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1981, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1982, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1983, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1984, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1985, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1986, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1987, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1988, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1989, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Andorra, AND, 1990, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
-Andorra, AND, 1991, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
-Andorra, AND, 1992, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
-Andorra, AND, 1993, 0.0, 0.0, 0.0, 0.0, 410368.0, 0.0
-Andorra, AND, 1994, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
-Andorra, AND, 1995, 0.0, 0.0, 0.0, 0.0, 425024.0, 0.0
-Andorra, AND, 1996, 0.0, 0.0, 0.0, 0.0, 454336.0, 0.0
-Andorra, AND, 1997, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
-Andorra, AND, 1998, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
-Andorra, AND, 1999, 0.0, 0.0, 0.0, 0.0, 512960.0, 0.0
-Andorra, AND, 2000, 0.0, 0.0, 0.0, 0.0, 523952.0, 0.0
-Andorra, AND, 2001, 0.0, 0.0, 0.0, 0.0, 523952.0, 0.0
-Andorra, AND, 2002, 0.0, 0.0, 0.0, 0.0, 531280.0, 0.0
-Andorra, AND, 2003, 0.0, 0.0, 0.0, 0.0, 534944.0, 0.0
-Andorra, AND, 2004, 0.0, 0.0, 0.0, 0.0, 560592.0, 0.0
-Andorra, AND, 2005, 0.0, 0.0, 0.0, 0.0, 575248.0, 0.0
-Andorra, AND, 2006, 0.0, 0.0, 0.0, 0.0, 545936.0, 0.0
-Andorra, AND, 2007, 0.0, 0.0, 0.0, 0.0, 538608.0, 0.0
-Andorra, AND, 2008, 0.0, 0.0, 0.0, 0.0, 538608.0, 0.0
-Andorra, AND, 2009, 0.0, 0.0, 0.0, 0.0, 516624.0, 0.0
-Andorra, AND, 2010, 0.0, 0.0, 0.0, 0.0, 516624.0, 0.0
-Andorra, AND, 2011, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
-Andorra, AND, 2012, 0.0, 0.0, 0.0, 0.0, 487312.0, 0.0
-Andorra, AND, 2013, 0.0, 0.0, 0.0, 0.0, 476320.0, 0.0
-Andorra, AND, 2014, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
-Andorra, AND, 2015, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
-Andorra, AND, 2016, 0.0, 0.0, 0.0, 0.0, 468992.0, 0.0
-Andorra, AND, 2017, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
-Andorra, AND, 2018, 0.0, 0.0, 0.0, 0.0, 494640.0, 0.0
-Andorra, AND, 2019, 0.0, 0.0, 0.0, 0.0, 501848.0, 0.0
-Andorra, AND, 2020, 0.0, 0.0, 0.0, 0.0, 466294.0, 0.0
-Anguilla, AIA, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Anguilla, AIA, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1917, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1919, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1920, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1921, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1922, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1924, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1925, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1926, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1927, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1928, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1930, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1931, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1932, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Albania, ALB, 1933, 0.0, 0.0, 0.0, 0.0, 7328.0, 0.0
-Albania, ALB, 1934, 0.0, 0.0, 0.0, 0.0, 7328.0, 0.0
-Albania, ALB, 1935, 0.0, 0.0, 0.0, 0.0, 18320.0, 0.0
-Albania, ALB, 1936, 0.0, 0.0, 3664.0, 0.0, 124576.0, 0.0
-Albania, ALB, 1937, 0.0, 0.0, 7328.0, 0.0, 289456.0, 0.0
-Albania, ALB, 1938, 0.0, 0.0, 0.0, 0.0, 348080.0, 0.0
-Albania, ALB, 1939, 0.0, 0.0, 0.0, 0.0, 432352.0, 0.0
-Albania, ALB, 1940, 0.0, 0.0, 0.0, 0.0, 692496.0, 0.0
-Albania, ALB, 1941, 0.0, 0.0, 7328.0, 0.0, 619216.0, 0.0
-Albania, ALB, 1942, 0.0, 0.0, 0.0, 0.0, 743792.0, 0.0
-Albania, ALB, 1943, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
-Albania, ALB, 1944, 0.0, 0.0, 0.0, 0.0, 153888.0, 0.0
-Albania, ALB, 1945, 0.0, 0.0, 0.0, 0.0, 120912.0, 0.0
-Albania, ALB, 1946, 21984.0, 0.0, 0.0, 0.0, 461664.0, 0.0
-Albania, ALB, 1947, 0.0, 0.0, 0.0, 0.0, 926992.0, 0.0
-Albania, ALB, 1948, 7328.0, 0.0, 0.0, 0.0, 696160.0, 0.0
-Albania, ALB, 1949, 0.0, 0.0, 0.0, 0.0, 1014928.0, 0.0
-Albania, ALB, 1950, 43432.0, 0.0, 7239.0, 0.0, 246114.0, 0.0
-Albania, ALB, 1951, 73280.0, 10992.0, 7328.0, 0.0, 311440.0, 0.0
-Albania, ALB, 1952, 76197.0, 10885.0, 7257.0, 0.0, 279389.0, 0.0
-Albania, ALB, 1953, 113584.0, 18320.0, 7328.0, 0.0, 274800.0, 0.0
-Albania, ALB, 1954, 157552.0, 29312.0, 7328.0, 0.0, 307776.0, 0.0
-Albania, ALB, 1955, 219840.0, 36640.0, 21984.0, 0.0, 384720.0, 0.0
-Albania, ALB, 1956, 249152.0, 47632.0, 32976.0, 0.0, 509296.0, 0.0
-Albania, ALB, 1957, 274800.0, 58624.0, 36640.0, 0.0, 1135840.0, 0.0
-Albania, ALB, 1958, 289456.0, 65952.0, 40304.0, 0.0, 806080.0, 0.0
-Albania, ALB, 1959, 337088.0, 76944.0, 36640.0, 0.0, 992944.0, 0.0
-Albania, ALB, 1960, 326096.0, 84272.0, 36640.0, 0.0, 1575520.0, 0.0
-Albania, ALB, 1961, 321914.0, 84137.0, 58530.0, 0.0, 1814427.0, 0.0
-Albania, ALB, 1962, 362736.0, 84272.0, 58624.0, 0.0, 1956576.0, 0.0
-Albania, ALB, 1963, 282128.0, 84272.0, 65952.0, 0.0, 1648800.0, 0.0
-Albania, ALB, 1964, 333424.0, 84272.0, 62288.0, 0.0, 1535216.0, 0.0
-Albania, ALB, 1965, 395046.0, 84130.0, 73157.0, 0.0, 1620419.0, 0.0
-Albania, ALB, 1966, 477005.0, 102740.0, 69716.0, 0.0, 1900683.0, 0.0
-Albania, ALB, 1967, 523952.0, 128240.0, 109920.0, 0.0, 1916272.0, 0.0
-Albania, ALB, 1968, 589904.0, 146560.0, 150224.0, 0.0, 2183744.0, 0.0
-Albania, ALB, 1969, 688832.0, 168544.0, 164880.0, 0.0, 2220384.0, 0.0
-Albania, ALB, 1970, 891225.0, 187047.0, 179712.0, 0.0, 2482960.0, 0.0
-Albania, ALB, 1971, 989280.0, 241824.0, 179536.0, 0.0, 2938528.0, 0.0
-Albania, ALB, 1972, 1080880.0, 278464.0, 197856.0, 0.0, 4081696.0, 0.0
-Albania, ALB, 1973, 1168816.0, 366400.0, 256480.0, 0.0, 3495456.0, 0.0
-Albania, ALB, 1974, 1210141.0, 429050.0, 278699.0, 0.0, 2423950.0, 0.0
-Albania, ALB, 1975, 1260416.0, 553264.0, 322432.0, 0.0, 2454880.0, 0.0
-Albania, ALB, 1976, 1272350.0, 671009.0, 348338.0, 0.0, 2654702.0, 0.0
-Albania, ALB, 1977, 1699007.0, 699376.0, 373489.0, 0.0, 2943969.0, 0.0
-Albania, ALB, 1978, 2126321.0, 678223.0, 399602.0, 0.0, 3284799.0, 0.0
-Albania, ALB, 1979, 2680752.0, 706810.0, 421156.0, 0.0, 3772097.0, 0.0
-Albania, ALB, 1980, 2322976.0, 773104.0, 498304.0, 0.0, 1571856.0, 0.0
-Albania, ALB, 1981, 2644087.0, 805678.0, 391852.0, 0.0, 3493711.0, 0.0
-Albania, ALB, 1982, 2879904.0, 864704.0, 414032.0, 0.0, 3143712.0, 0.0
-Albania, ALB, 1983, 3103408.0, 974624.0, 417696.0, 0.0, 3129056.0, 0.0
-Albania, ALB, 1984, 3400192.0, 1044240.0, 428688.0, 0.0, 2945856.0, 0.0
-Albania, ALB, 1985, 3722624.0, 970960.0, 425024.0, 0.0, 2755328.0, 0.0
-Albania, ALB, 1986, 3707968.0, 1051568.0, 421360.0, 0.0, 2868912.0, 0.0
-Albania, ALB, 1987, 3735456.0, 450894.0, 428899.0, 0.0, 2822670.0, 0.0
-Albania, ALB, 1988, 4017755.0, 355586.0, 370249.0, 0.0, 2577082.0, 0.0
-Albania, ALB, 1989, 4056048.0, 447008.0, 377392.0, 0.0, 4096352.0, 0.0
-Albania, ALB, 1990, 2498848.0, 465328.0, 307776.0, 0.0, 2172752.0, 0.0
-Albania, ALB, 1991, 1480256.0, 274800.0, 245488.0, 0.0, 2227712.0, 0.0
-Albania, ALB, 1992, 799927.0, 198147.0, 80727.0, 0.0, 1416384.0, 0.0
-Albania, ALB, 1993, 599947.0, 157303.0, 80481.0, 0.0, 1477918.0, 0.0
-Albania, ALB, 1994, 168544.0, 98928.0, 40304.0, 0.0, 1604832.0, 0.0
-Albania, ALB, 1995, 161216.0, 51296.0, 80608.0, 0.0, 1773376.0, 0.0
-Albania, ALB, 1996, 113584.0, 43968.0, 80608.0, 0.0, 1755056.0, 0.0
-Albania, ALB, 1997, 43968.0, 36640.0, 40304.0, 0.0, 1410640.0, 0.0
-Albania, ALB, 1998, 54845.0, 32907.0, 32907.0, 0.0, 1623405.0, 0.0
-Albania, ALB, 1999, 110056.0, 29348.0, 44022.0, 0.0, 2791742.0, 0.0
-Albania, ALB, 2000, 69531.0, 21957.0, 73191.0, 0.0, 2839801.0, 0.0
-Albania, ALB, 2001, 80608.0, 14656.0, 0.0, 0.0, 3125392.0, 0.0
-Albania, ALB, 2002, 84272.0, 25648.0, 0.0, 0.0, 3638352.0, 0.0
-Albania, ALB, 2003, 84272.0, 25648.0, 230832.0, 0.0, 3891168.0, 0.0
-Albania, ALB, 2004, 84272.0, 32976.0, 227168.0, 0.0, 3759264.0, 0.0
-Albania, ALB, 2005, 73216.0, 21965.0, 194023.0, 0.0, 3909740.0, 0.0
-Albania, ALB, 2006, 73210.0, 21963.0, 208649.0, 0.0, 3539714.0, 0.0
-Albania, ALB, 2007, 73210.0, 32944.0, 347747.0, 0.0, 3374978.0, 0.0
-Albania, ALB, 2008, 102592.0, 14656.0, 359072.0, 0.0, 3795904.0, 0.0
-Albania, ALB, 2009, 388384.0, 18320.0, 432352.0, 0.0, 3414848.0, 0.0
-Albania, ALB, 2010, 428688.0, 25648.0, 501968.0, 0.0, 3491792.0, 0.0
-Albania, ALB, 2011, 534944.0, 29312.0, 692496.0, 0.0, 3773920.0, 0.0
-Albania, ALB, 2012, 626544.0, 29312.0, 857376.0, 0.0, 3154704.0, 0.0
-Albania, ALB, 2013, 795088.0, 32976.0, 769440.0, 0.0, 3330576.0, 0.0
-Albania, ALB, 2014, 1028913.0, 58586.0, 677398.0, 0.0, 3855679.0, 0.0
-Albania, ALB, 2015, 322432.0, 62288.0, 773104.0, 0.0, 3337904.0, 0.0
-Albania, ALB, 2016, 190528.0, 161216.0, 780432.0, 0.0, 3359888.0, 0.0
-Albania, ALB, 2017, 274610.0, 168428.0, 779893.0, 0.0, 4078877.0, 0.0
-Albania, ALB, 2018, 472656.0, 150224.0, 780432.0, 0.0, 3330576.0, 0.0
-Albania, ALB, 2019, 549397.0, 154511.0, 780432.0, 0.0, 3379111.0, 0.0
-Albania, ALB, 2020, 461364.0, 153164.0, 780432.0, 0.0, 3139714.0, 0.0
 Algeria, DZA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Algeria, DZA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Algeria, DZA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -1291,210 +142,71 @@ Algeria, DZA, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Algeria, DZA, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Algeria, DZA, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Algeria, DZA, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1916, 0.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1917, 3664.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1918, 14656.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1919, 15267.0, 0.0, 0.0, 0.0, 3053.0, 0.0
-Algeria, DZA, 1920, 18320.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1921, 25648.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1922, 22442.0, 0.0, 0.0, 0.0, 3206.0, 0.0
-Algeria, DZA, 1923, 10992.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1924, 22798.0, 0.0, 0.0, 0.0, 6514.0, 0.0
-Algeria, DZA, 1925, 25648.0, 0.0, 0.0, 0.0, 7328.0, 0.0
-Algeria, DZA, 1926, 36640.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1927, 54960.0, 0.0, 0.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1928, 43968.0, 0.0, 25440.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1929, 42056.0, 0.0, 27810.0, 0.0, 10514.0, 0.0
-Algeria, DZA, 1930, 43968.0, 0.0, 32709.0, 0.0, 7328.0, 0.0
-Algeria, DZA, 1931, 57074.0, 0.0, 37741.0, 0.0, 3805.0, 0.0
-Algeria, DZA, 1932, 65952.0, 0.0, 43611.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1933, 80608.0, 0.0, 36343.0, 0.0, 3664.0, 0.0
-Algeria, DZA, 1934, 91600.0, 0.0, 47246.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1935, 99819.0, 0.0, 31825.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1936, 18320.0, 0.0, 32709.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1937, 36640.0, 0.0, 32709.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1938, 32976.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1939, 51296.0, 109920.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1940, 146560.0, 91600.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1941, 212512.0, 98928.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1942, 392048.0, 106256.0, 0.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1943, 311440.0, 117248.0, 39977.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1944, 316441.0, 130941.0, 46901.0, 0.0, 3637.0, 0.0
-Algeria, DZA, 1945, 428688.0, 135568.0, 50880.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1946, 568849.0, 134919.0, 57870.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1947, 545936.0, 135568.0, 61783.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1948, 598165.0, 138599.0, 65120.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1949, 706336.0, 139796.0, 62033.0, 0.0, 0.0, 0.0
-Algeria, DZA, 1950, 1883296.0, 0.0, 159909.0, 0.0, 1740400.0, 0.0
-Algeria, DZA, 1951, 2040848.0, 0.0, 221691.0, 0.0, 1868640.0, 0.0
-Algeria, DZA, 1952, 1842992.0, 0.0, 239863.0, 0.0, 1806352.0, 0.0
-Algeria, DZA, 1953, 1547625.0, 0.0, 254633.0, 0.0, 2196748.0, 0.0
-Algeria, DZA, 1954, 1483920.0, 0.0, 327086.0, 0.0, 2341296.0, 0.0
-Algeria, DZA, 1955, 1593840.0, 0.0, 334354.0, 0.0, 2678384.0, 0.0
-Algeria, DZA, 1956, 1761093.0, 0.0, 323214.0, 0.0, 2910746.0, 0.0
-Algeria, DZA, 1957, 1974896.0, 0.0, 352526.0, 0.0, 3209664.0, 0.0
-Algeria, DZA, 1958, 1810016.0, 0.0, 417943.0, 0.0, 2986160.0, 0.0
-Algeria, DZA, 1959, 1461936.0, 0.0, 472457.0, 0.0, 3722624.0, 0.0
-Algeria, DZA, 1960, 1256752.0, 0.0, 523337.0, 0.0, 4371152.0, 0.0
-Algeria, DZA, 1961, 765313.0, 450400.0, 530285.0, 0.0, 4309922.0, 0.0
-Algeria, DZA, 1962, 406441.0, 688387.0, 432200.0, 0.0, 4133982.0, 0.0
-Algeria, DZA, 1963, 252816.0, 604560.0, 436114.0, 0.0, 4125664.0, 0.0
-Algeria, DZA, 1964, 282128.0, 1190800.0, 388868.0, 0.0, 3781248.0, 0.0
-Algeria, DZA, 1965, 263955.0, 1778028.0, 367267.0, 0.0, 4179283.0, 0.0
-Algeria, DZA, 1966, 271136.0, 1850320.0, 327086.0, 0.0, 5972320.0, 0.0
-Algeria, DZA, 1967, 190445.0, 1790918.0, 359638.0, 0.0, 6090586.0, 0.0
-Algeria, DZA, 1968, 201602.0, 1884058.0, 429019.0, 0.0, 6535557.0, 0.0
-Algeria, DZA, 1969, 450525.0, 2476059.0, 468670.0, 0.0, 7867713.0, 0.0
-Algeria, DZA, 1970, 970960.0, 135568.0, 457920.0, 6657488.0, 6837024.0, 0.0
+Africa, , 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Africa, , 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Afghanistan, AFG, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Afghanistan, AFG, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Afghanistan, AFG, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -1766,71 +478,6 @@ Afghanistan, AFG, 2017, 3447824.0, 300448.0, 44785.0, 0.0, 3066768.0, 0.0
 Afghanistan, AFG, 2018, 3848893.0, 293249.0, 56880.0, 0.0, 4145807.0, 0.0
 Afghanistan, AFG, 2019, 7530906.0, 305937.0, 38329.0, 0.0, 4271503.0, 0.0
 Afghanistan, AFG, 2020, 7507941.0, 314185.0, 60674.0, 0.0, 4277487.0, 0.0
-Africa, , 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Africa, , 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Africa, , 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Africa, , 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Africa, , 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -2037,6 +684,481 @@ Africa, , 2017, 4.39669728E8, 2.84092541E8, 7.6796785E7, 4.9472302E7, 5.34340761
 Africa, , 2018, 4.50509197E8, 2.88796901E8, 7.9892814E7, 4.4458277E7, 5.21987707E8, 0.0
 Africa, , 2019, 4.64561288E8, 2.91682268E8, 7.8559979E7, 4.4458976E7, 5.29216419E8, 0.0
 Africa, , 2020, 4.46097038E8, 2.87016466E8, 7.7025199E7, 4.4458976E7, 4.71445864E8, 0.0
+Albania, ALB, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1917, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1919, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1920, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1921, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1922, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1924, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1925, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1926, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1927, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1928, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1930, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1931, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1932, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Albania, ALB, 1933, 0.0, 0.0, 0.0, 0.0, 7328.0, 0.0
+Albania, ALB, 1934, 0.0, 0.0, 0.0, 0.0, 7328.0, 0.0
+Albania, ALB, 1935, 0.0, 0.0, 0.0, 0.0, 18320.0, 0.0
+Albania, ALB, 1936, 0.0, 0.0, 3664.0, 0.0, 124576.0, 0.0
+Albania, ALB, 1937, 0.0, 0.0, 7328.0, 0.0, 289456.0, 0.0
+Albania, ALB, 1938, 0.0, 0.0, 0.0, 0.0, 348080.0, 0.0
+Albania, ALB, 1939, 0.0, 0.0, 0.0, 0.0, 432352.0, 0.0
+Albania, ALB, 1940, 0.0, 0.0, 0.0, 0.0, 692496.0, 0.0
+Albania, ALB, 1941, 0.0, 0.0, 7328.0, 0.0, 619216.0, 0.0
+Albania, ALB, 1942, 0.0, 0.0, 0.0, 0.0, 743792.0, 0.0
+Albania, ALB, 1943, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
+Albania, ALB, 1944, 0.0, 0.0, 0.0, 0.0, 153888.0, 0.0
+Albania, ALB, 1945, 0.0, 0.0, 0.0, 0.0, 120912.0, 0.0
+Albania, ALB, 1946, 21984.0, 0.0, 0.0, 0.0, 461664.0, 0.0
+Albania, ALB, 1947, 0.0, 0.0, 0.0, 0.0, 926992.0, 0.0
+Albania, ALB, 1948, 7328.0, 0.0, 0.0, 0.0, 696160.0, 0.0
+Albania, ALB, 1949, 0.0, 0.0, 0.0, 0.0, 1014928.0, 0.0
+Albania, ALB, 1950, 43432.0, 0.0, 7239.0, 0.0, 246114.0, 0.0
+Albania, ALB, 1951, 73280.0, 10992.0, 7328.0, 0.0, 311440.0, 0.0
+Albania, ALB, 1952, 76197.0, 10885.0, 7257.0, 0.0, 279389.0, 0.0
+Albania, ALB, 1953, 113584.0, 18320.0, 7328.0, 0.0, 274800.0, 0.0
+Albania, ALB, 1954, 157552.0, 29312.0, 7328.0, 0.0, 307776.0, 0.0
+Albania, ALB, 1955, 219840.0, 36640.0, 21984.0, 0.0, 384720.0, 0.0
+Albania, ALB, 1956, 249152.0, 47632.0, 32976.0, 0.0, 509296.0, 0.0
+Albania, ALB, 1957, 274800.0, 58624.0, 36640.0, 0.0, 1135840.0, 0.0
+Albania, ALB, 1958, 289456.0, 65952.0, 40304.0, 0.0, 806080.0, 0.0
+Albania, ALB, 1959, 337088.0, 76944.0, 36640.0, 0.0, 992944.0, 0.0
+Albania, ALB, 1960, 326096.0, 84272.0, 36640.0, 0.0, 1575520.0, 0.0
+Albania, ALB, 1961, 321914.0, 84137.0, 58530.0, 0.0, 1814427.0, 0.0
+Albania, ALB, 1962, 362736.0, 84272.0, 58624.0, 0.0, 1956576.0, 0.0
+Albania, ALB, 1963, 282128.0, 84272.0, 65952.0, 0.0, 1648800.0, 0.0
+Albania, ALB, 1964, 333424.0, 84272.0, 62288.0, 0.0, 1535216.0, 0.0
+Albania, ALB, 1965, 395046.0, 84130.0, 73157.0, 0.0, 1620419.0, 0.0
+Albania, ALB, 1966, 477005.0, 102740.0, 69716.0, 0.0, 1900683.0, 0.0
+Albania, ALB, 1967, 523952.0, 128240.0, 109920.0, 0.0, 1916272.0, 0.0
+Albania, ALB, 1968, 589904.0, 146560.0, 150224.0, 0.0, 2183744.0, 0.0
+Albania, ALB, 1969, 688832.0, 168544.0, 164880.0, 0.0, 2220384.0, 0.0
+Albania, ALB, 1970, 891225.0, 187047.0, 179712.0, 0.0, 2482960.0, 0.0
+Albania, ALB, 1971, 989280.0, 241824.0, 179536.0, 0.0, 2938528.0, 0.0
+Albania, ALB, 1972, 1080880.0, 278464.0, 197856.0, 0.0, 4081696.0, 0.0
+Albania, ALB, 1973, 1168816.0, 366400.0, 256480.0, 0.0, 3495456.0, 0.0
+Albania, ALB, 1974, 1210141.0, 429050.0, 278699.0, 0.0, 2423950.0, 0.0
+Albania, ALB, 1975, 1260416.0, 553264.0, 322432.0, 0.0, 2454880.0, 0.0
+Albania, ALB, 1976, 1272350.0, 671009.0, 348338.0, 0.0, 2654702.0, 0.0
+Albania, ALB, 1977, 1699007.0, 699376.0, 373489.0, 0.0, 2943969.0, 0.0
+Albania, ALB, 1978, 2126321.0, 678223.0, 399602.0, 0.0, 3284799.0, 0.0
+Albania, ALB, 1979, 2680752.0, 706810.0, 421156.0, 0.0, 3772097.0, 0.0
+Albania, ALB, 1980, 2322976.0, 773104.0, 498304.0, 0.0, 1571856.0, 0.0
+Albania, ALB, 1981, 2644087.0, 805678.0, 391852.0, 0.0, 3493711.0, 0.0
+Albania, ALB, 1982, 2879904.0, 864704.0, 414032.0, 0.0, 3143712.0, 0.0
+Albania, ALB, 1983, 3103408.0, 974624.0, 417696.0, 0.0, 3129056.0, 0.0
+Albania, ALB, 1984, 3400192.0, 1044240.0, 428688.0, 0.0, 2945856.0, 0.0
+Albania, ALB, 1985, 3722624.0, 970960.0, 425024.0, 0.0, 2755328.0, 0.0
+Albania, ALB, 1986, 3707968.0, 1051568.0, 421360.0, 0.0, 2868912.0, 0.0
+Albania, ALB, 1987, 3735456.0, 450894.0, 428899.0, 0.0, 2822670.0, 0.0
+Albania, ALB, 1988, 4017755.0, 355586.0, 370249.0, 0.0, 2577082.0, 0.0
+Albania, ALB, 1989, 4056048.0, 447008.0, 377392.0, 0.0, 4096352.0, 0.0
+Albania, ALB, 1990, 2498848.0, 465328.0, 307776.0, 0.0, 2172752.0, 0.0
+Albania, ALB, 1991, 1480256.0, 274800.0, 245488.0, 0.0, 2227712.0, 0.0
+Albania, ALB, 1992, 799927.0, 198147.0, 80727.0, 0.0, 1416384.0, 0.0
+Albania, ALB, 1993, 599947.0, 157303.0, 80481.0, 0.0, 1477918.0, 0.0
+Albania, ALB, 1994, 168544.0, 98928.0, 40304.0, 0.0, 1604832.0, 0.0
+Albania, ALB, 1995, 161216.0, 51296.0, 80608.0, 0.0, 1773376.0, 0.0
+Albania, ALB, 1996, 113584.0, 43968.0, 80608.0, 0.0, 1755056.0, 0.0
+Albania, ALB, 1997, 43968.0, 36640.0, 40304.0, 0.0, 1410640.0, 0.0
+Albania, ALB, 1998, 54845.0, 32907.0, 32907.0, 0.0, 1623405.0, 0.0
+Albania, ALB, 1999, 110056.0, 29348.0, 44022.0, 0.0, 2791742.0, 0.0
+Albania, ALB, 2000, 69531.0, 21957.0, 73191.0, 0.0, 2839801.0, 0.0
+Albania, ALB, 2001, 80608.0, 14656.0, 0.0, 0.0, 3125392.0, 0.0
+Albania, ALB, 2002, 84272.0, 25648.0, 0.0, 0.0, 3638352.0, 0.0
+Albania, ALB, 2003, 84272.0, 25648.0, 230832.0, 0.0, 3891168.0, 0.0
+Albania, ALB, 2004, 84272.0, 32976.0, 227168.0, 0.0, 3759264.0, 0.0
+Albania, ALB, 2005, 73216.0, 21965.0, 194023.0, 0.0, 3909740.0, 0.0
+Albania, ALB, 2006, 73210.0, 21963.0, 208649.0, 0.0, 3539714.0, 0.0
+Albania, ALB, 2007, 73210.0, 32944.0, 347747.0, 0.0, 3374978.0, 0.0
+Albania, ALB, 2008, 102592.0, 14656.0, 359072.0, 0.0, 3795904.0, 0.0
+Albania, ALB, 2009, 388384.0, 18320.0, 432352.0, 0.0, 3414848.0, 0.0
+Albania, ALB, 2010, 428688.0, 25648.0, 501968.0, 0.0, 3491792.0, 0.0
+Albania, ALB, 2011, 534944.0, 29312.0, 692496.0, 0.0, 3773920.0, 0.0
+Albania, ALB, 2012, 626544.0, 29312.0, 857376.0, 0.0, 3154704.0, 0.0
+Albania, ALB, 2013, 795088.0, 32976.0, 769440.0, 0.0, 3330576.0, 0.0
+Albania, ALB, 2014, 1028913.0, 58586.0, 677398.0, 0.0, 3855679.0, 0.0
+Albania, ALB, 2015, 322432.0, 62288.0, 773104.0, 0.0, 3337904.0, 0.0
+Albania, ALB, 2016, 190528.0, 161216.0, 780432.0, 0.0, 3359888.0, 0.0
+Albania, ALB, 2017, 274610.0, 168428.0, 779893.0, 0.0, 4078877.0, 0.0
+Albania, ALB, 2018, 472656.0, 150224.0, 780432.0, 0.0, 3330576.0, 0.0
+Albania, ALB, 2019, 549397.0, 154511.0, 780432.0, 0.0, 3379111.0, 0.0
+Albania, ALB, 2020, 461364.0, 153164.0, 780432.0, 0.0, 3139714.0, 0.0
+Algeria, DZA, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1916, 0.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1917, 3664.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1918, 14656.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1919, 15267.0, 0.0, 0.0, 0.0, 3053.0, 0.0
+Algeria, DZA, 1920, 18320.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1921, 25648.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1922, 22442.0, 0.0, 0.0, 0.0, 3206.0, 0.0
+Algeria, DZA, 1923, 10992.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1924, 22798.0, 0.0, 0.0, 0.0, 6514.0, 0.0
+Algeria, DZA, 1925, 25648.0, 0.0, 0.0, 0.0, 7328.0, 0.0
+Algeria, DZA, 1926, 36640.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1927, 54960.0, 0.0, 0.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1928, 43968.0, 0.0, 25440.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1929, 42056.0, 0.0, 27810.0, 0.0, 10514.0, 0.0
+Algeria, DZA, 1930, 43968.0, 0.0, 32709.0, 0.0, 7328.0, 0.0
+Algeria, DZA, 1931, 57074.0, 0.0, 37741.0, 0.0, 3805.0, 0.0
+Algeria, DZA, 1932, 65952.0, 0.0, 43611.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1933, 80608.0, 0.0, 36343.0, 0.0, 3664.0, 0.0
+Algeria, DZA, 1934, 91600.0, 0.0, 47246.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1935, 99819.0, 0.0, 31825.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1936, 18320.0, 0.0, 32709.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1937, 36640.0, 0.0, 32709.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1938, 32976.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1939, 51296.0, 109920.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1940, 146560.0, 91600.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1941, 212512.0, 98928.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1942, 392048.0, 106256.0, 0.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1943, 311440.0, 117248.0, 39977.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1944, 316441.0, 130941.0, 46901.0, 0.0, 3637.0, 0.0
+Algeria, DZA, 1945, 428688.0, 135568.0, 50880.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1946, 568849.0, 134919.0, 57870.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1947, 545936.0, 135568.0, 61783.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1948, 598165.0, 138599.0, 65120.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1949, 706336.0, 139796.0, 62033.0, 0.0, 0.0, 0.0
+Algeria, DZA, 1950, 1883296.0, 0.0, 159909.0, 0.0, 1740400.0, 0.0
+Algeria, DZA, 1951, 2040848.0, 0.0, 221691.0, 0.0, 1868640.0, 0.0
+Algeria, DZA, 1952, 1842992.0, 0.0, 239863.0, 0.0, 1806352.0, 0.0
+Algeria, DZA, 1953, 1547625.0, 0.0, 254633.0, 0.0, 2196748.0, 0.0
+Algeria, DZA, 1954, 1483920.0, 0.0, 327086.0, 0.0, 2341296.0, 0.0
+Algeria, DZA, 1955, 1593840.0, 0.0, 334354.0, 0.0, 2678384.0, 0.0
+Algeria, DZA, 1956, 1761093.0, 0.0, 323214.0, 0.0, 2910746.0, 0.0
+Algeria, DZA, 1957, 1974896.0, 0.0, 352526.0, 0.0, 3209664.0, 0.0
+Algeria, DZA, 1958, 1810016.0, 0.0, 417943.0, 0.0, 2986160.0, 0.0
+Algeria, DZA, 1959, 1461936.0, 0.0, 472457.0, 0.0, 3722624.0, 0.0
+Algeria, DZA, 1960, 1256752.0, 0.0, 523337.0, 0.0, 4371152.0, 0.0
+Algeria, DZA, 1961, 765313.0, 450400.0, 530285.0, 0.0, 4309922.0, 0.0
+Algeria, DZA, 1962, 406441.0, 688387.0, 432200.0, 0.0, 4133982.0, 0.0
+Algeria, DZA, 1963, 252816.0, 604560.0, 436114.0, 0.0, 4125664.0, 0.0
+Algeria, DZA, 1964, 282128.0, 1190800.0, 388868.0, 0.0, 3781248.0, 0.0
+Algeria, DZA, 1965, 263955.0, 1778028.0, 367267.0, 0.0, 4179283.0, 0.0
+Algeria, DZA, 1966, 271136.0, 1850320.0, 327086.0, 0.0, 5972320.0, 0.0
+Algeria, DZA, 1967, 190445.0, 1790918.0, 359638.0, 0.0, 6090586.0, 0.0
+Algeria, DZA, 1968, 201602.0, 1884058.0, 429019.0, 0.0, 6535557.0, 0.0
+Algeria, DZA, 1969, 450525.0, 2476059.0, 468670.0, 0.0, 7867713.0, 0.0
+Algeria, DZA, 1970, 970960.0, 135568.0, 457920.0, 6657488.0, 6837024.0, 0.0
 Algeria, DZA, 1971, 901344.0, 674176.0, 476091.0, 8980464.0, 7617456.0, 0.0
 Algeria, DZA, 1972, 648528.0, 3136384.0, 457920.0, 1.6821424E7, 7258384.0, 0.0
 Algeria, DZA, 1973, 820736.0, 3147376.0, 497897.0, 2.4435216E7, 9376176.0, 0.0
@@ -2087,51 +1209,250 @@ Algeria, DZA, 2017, 795088.0, 8.2352064E7, 1.070954E7, 5770800.0, 5.530808E7, 0.
 Algeria, DZA, 2018, 1330002.0, 8.8886615E7, 1.0749352E7, 5598464.0, 5.4922109E7, 0.0
 Algeria, DZA, 2019, 1098606.0, 9.2436302E7, 1.0749352E7, 5598592.0, 5.6759097E7, 0.0
 Algeria, DZA, 2020, 1098606.0, 8.8218526E7, 1.0749352E7, 5598592.0, 4.9330383E7, 0.0
-Angola, AGO, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Angola, AGO, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1917, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1919, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1920, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1921, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1922, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1924, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1925, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1926, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1927, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1928, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1930, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1931, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1932, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1933, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1934, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1935, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1936, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1937, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1938, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1939, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1940, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1941, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1942, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1943, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1944, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1945, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1946, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1947, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1948, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1949, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1950, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1951, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1952, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1953, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1954, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1955, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1956, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1957, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1958, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1959, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1960, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1961, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1962, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1963, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1964, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1965, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1966, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1967, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1968, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1969, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1970, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1971, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1972, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1973, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1974, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1975, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1976, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1977, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1978, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1979, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1980, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1981, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1982, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1983, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1984, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1985, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1986, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1987, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1988, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1989, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Andorra, AND, 1990, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
+Andorra, AND, 1991, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
+Andorra, AND, 1992, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
+Andorra, AND, 1993, 0.0, 0.0, 0.0, 0.0, 410368.0, 0.0
+Andorra, AND, 1994, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
+Andorra, AND, 1995, 0.0, 0.0, 0.0, 0.0, 425024.0, 0.0
+Andorra, AND, 1996, 0.0, 0.0, 0.0, 0.0, 454336.0, 0.0
+Andorra, AND, 1997, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
+Andorra, AND, 1998, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
+Andorra, AND, 1999, 0.0, 0.0, 0.0, 0.0, 512960.0, 0.0
+Andorra, AND, 2000, 0.0, 0.0, 0.0, 0.0, 523952.0, 0.0
+Andorra, AND, 2001, 0.0, 0.0, 0.0, 0.0, 523952.0, 0.0
+Andorra, AND, 2002, 0.0, 0.0, 0.0, 0.0, 531280.0, 0.0
+Andorra, AND, 2003, 0.0, 0.0, 0.0, 0.0, 534944.0, 0.0
+Andorra, AND, 2004, 0.0, 0.0, 0.0, 0.0, 560592.0, 0.0
+Andorra, AND, 2005, 0.0, 0.0, 0.0, 0.0, 575248.0, 0.0
+Andorra, AND, 2006, 0.0, 0.0, 0.0, 0.0, 545936.0, 0.0
+Andorra, AND, 2007, 0.0, 0.0, 0.0, 0.0, 538608.0, 0.0
+Andorra, AND, 2008, 0.0, 0.0, 0.0, 0.0, 538608.0, 0.0
+Andorra, AND, 2009, 0.0, 0.0, 0.0, 0.0, 516624.0, 0.0
+Andorra, AND, 2010, 0.0, 0.0, 0.0, 0.0, 516624.0, 0.0
+Andorra, AND, 2011, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
+Andorra, AND, 2012, 0.0, 0.0, 0.0, 0.0, 487312.0, 0.0
+Andorra, AND, 2013, 0.0, 0.0, 0.0, 0.0, 476320.0, 0.0
+Andorra, AND, 2014, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
+Andorra, AND, 2015, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
+Andorra, AND, 2016, 0.0, 0.0, 0.0, 0.0, 468992.0, 0.0
+Andorra, AND, 2017, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
+Andorra, AND, 2018, 0.0, 0.0, 0.0, 0.0, 494640.0, 0.0
+Andorra, AND, 2019, 0.0, 0.0, 0.0, 0.0, 501848.0, 0.0
+Andorra, AND, 2020, 0.0, 0.0, 0.0, 0.0, 466294.0, 0.0
 Angola, AGO, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Angola, AGO, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Angola, AGO, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -2358,6 +1679,89 @@ Angola, AGO, 2017, 0.0, 1571856.0, 178247.0, 1.3835264E7, 1.2834992E7, 0.0
 Angola, AGO, 2018, 0.0, 1608496.0, 1937465.0, 7866608.0, 1.2963232E7, 0.0
 Angola, AGO, 2019, 0.0, 1273914.0, 1937465.0, 7866608.0, 1.2408835E7, 0.0
 Angola, AGO, 2020, 0.0, 1313899.0, 1937465.0, 7866608.0, 1.1080189E7, 0.0
+Anguilla, AIA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Anguilla, AIA, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Anguilla, AIA, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Anguilla, AIA, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Anguilla, AIA, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -2546,59 +1950,6 @@ Anguilla, AIA, 2017, 0.0, 0.0, 0.0, 0.0, 142896.0, 0.0
 Anguilla, AIA, 2018, 0.0, 0.0, 0.0, 0.0, 142896.0, 0.0
 Anguilla, AIA, 2019, 0.0, 0.0, 0.0, 0.0, 139475.0, 0.0
 Anguilla, AIA, 2020, 0.0, 0.0, 0.0, 0.0, 123426.0, 0.0
-Antarctica, ATA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Antarctica, ATA, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Antarctica, ATA, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Antarctica, ATA, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Antarctica, ATA, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -2817,6 +2168,501 @@ Antarctica, ATA, 2017, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Antarctica, ATA, 2018, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Antarctica, ATA, 2019, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Antarctica, ATA, 2020, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1887, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1888, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1889, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1890, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1891, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1892, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1893, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1894, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1895, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1897, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1898, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1900, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1901, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1902, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1906, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1907, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1909, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1910, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1911, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1913, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1914, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1915, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1917, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1919, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1920, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1921, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1922, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1923, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1924, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1925, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1926, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1927, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1928, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1930, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1931, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1932, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1933, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1934, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1935, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1936, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1937, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1938, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1939, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1940, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1941, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1942, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1943, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1944, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1945, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1946, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1947, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1948, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1949, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1950, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1951, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1952, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1953, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1954, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1955, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1956, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Antigua and Barbuda, ATG, 1957, 0.0, 0.0, 0.0, 0.0, 21984.0, 0.0
+Antigua and Barbuda, ATG, 1958, 0.0, 0.0, 0.0, 0.0, 29312.0, 0.0
+Antigua and Barbuda, ATG, 1959, 0.0, 0.0, 0.0, 0.0, 29312.0, 0.0
+Antigua and Barbuda, ATG, 1960, 0.0, 0.0, 0.0, 0.0, 36640.0, 0.0
+Antigua and Barbuda, ATG, 1961, 0.0, 0.0, 0.0, 0.0, 47632.0, 0.0
+Antigua and Barbuda, ATG, 1962, 0.0, 0.0, 0.0, 0.0, 102592.0, 0.0
+Antigua and Barbuda, ATG, 1963, 0.0, 0.0, 0.0, 0.0, 84272.0, 0.0
+Antigua and Barbuda, ATG, 1964, 0.0, 0.0, 0.0, 0.0, 91600.0, 0.0
+Antigua and Barbuda, ATG, 1965, 0.0, 0.0, 0.0, 0.0, 150224.0, 0.0
+Antigua and Barbuda, ATG, 1966, 0.0, 0.0, 0.0, 0.0, 348080.0, 0.0
+Antigua and Barbuda, ATG, 1967, 0.0, 0.0, 0.0, 0.0, 564256.0, 0.0
+Antigua and Barbuda, ATG, 1968, 0.0, 0.0, 0.0, 0.0, 989280.0, 0.0
+Antigua and Barbuda, ATG, 1969, 0.0, 0.0, 0.0, 0.0, 1256752.0, 0.0
+Antigua and Barbuda, ATG, 1970, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
+Antigua and Barbuda, ATG, 1971, 0.0, 0.0, 0.0, 0.0, 425024.0, 0.0
+Antigua and Barbuda, ATG, 1972, 0.0, 0.0, 0.0, 0.0, 373728.0, 0.0
+Antigua and Barbuda, ATG, 1973, 0.0, 0.0, 0.0, 0.0, 329760.0, 0.0
+Antigua and Barbuda, ATG, 1974, 0.0, 0.0, 0.0, 0.0, 428688.0, 0.0
+Antigua and Barbuda, ATG, 1975, 0.0, 0.0, 0.0, 0.0, 707152.0, 0.0
+Antigua and Barbuda, ATG, 1976, 0.0, 0.0, 0.0, 0.0, 403040.0, 0.0
+Antigua and Barbuda, ATG, 1977, 0.0, 0.0, 0.0, 0.0, 465328.0, 0.0
+Antigua and Barbuda, ATG, 1978, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
+Antigua and Barbuda, ATG, 1979, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
+Antigua and Barbuda, ATG, 1980, 0.0, 0.0, 0.0, 0.0, 142896.0, 0.0
+Antigua and Barbuda, ATG, 1981, 0.0, 0.0, 0.0, 0.0, 106256.0, 0.0
+Antigua and Barbuda, ATG, 1982, 0.0, 0.0, 0.0, 0.0, 293120.0, 0.0
+Antigua and Barbuda, ATG, 1983, 0.0, 0.0, 0.0, 0.0, 84272.0, 0.0
+Antigua and Barbuda, ATG, 1984, 0.0, 0.0, 0.0, 0.0, 146560.0, 0.0
+Antigua and Barbuda, ATG, 1985, 0.0, 0.0, 0.0, 0.0, 249152.0, 0.0
+Antigua and Barbuda, ATG, 1986, 0.0, 0.0, 0.0, 0.0, 249152.0, 0.0
+Antigua and Barbuda, ATG, 1987, 0.0, 0.0, 0.0, 0.0, 274800.0, 0.0
+Antigua and Barbuda, ATG, 1988, 0.0, 0.0, 0.0, 0.0, 285792.0, 0.0
+Antigua and Barbuda, ATG, 1989, 0.0, 0.0, 0.0, 0.0, 285792.0, 0.0
+Antigua and Barbuda, ATG, 1990, 0.0, 0.0, 0.0, 0.0, 219840.0, 0.0
+Antigua and Barbuda, ATG, 1991, 0.0, 0.0, 0.0, 0.0, 212512.0, 0.0
+Antigua and Barbuda, ATG, 1992, 0.0, 0.0, 0.0, 0.0, 208848.0, 0.0
+Antigua and Barbuda, ATG, 1993, 0.0, 0.0, 0.0, 0.0, 216176.0, 0.0
+Antigua and Barbuda, ATG, 1994, 0.0, 0.0, 0.0, 0.0, 216176.0, 0.0
+Antigua and Barbuda, ATG, 1995, 0.0, 0.0, 0.0, 0.0, 223504.0, 0.0
+Antigua and Barbuda, ATG, 1996, 0.0, 0.0, 0.0, 0.0, 238160.0, 0.0
+Antigua and Barbuda, ATG, 1997, 0.0, 0.0, 0.0, 0.0, 256480.0, 0.0
+Antigua and Barbuda, ATG, 1998, 0.0, 0.0, 0.0, 0.0, 271136.0, 0.0
+Antigua and Barbuda, ATG, 1999, 0.0, 0.0, 0.0, 0.0, 282128.0, 0.0
+Antigua and Barbuda, ATG, 2000, 0.0, 0.0, 0.0, 0.0, 293120.0, 0.0
+Antigua and Barbuda, ATG, 2001, 0.0, 0.0, 0.0, 0.0, 296784.0, 0.0
+Antigua and Barbuda, ATG, 2002, 0.0, 0.0, 0.0, 0.0, 329760.0, 0.0
+Antigua and Barbuda, ATG, 2003, 0.0, 0.0, 0.0, 0.0, 351744.0, 0.0
+Antigua and Barbuda, ATG, 2004, 0.0, 0.0, 0.0, 0.0, 366400.0, 0.0
+Antigua and Barbuda, ATG, 2005, 0.0, 0.0, 0.0, 0.0, 373728.0, 0.0
+Antigua and Barbuda, ATG, 2006, 0.0, 0.0, 0.0, 0.0, 384720.0, 0.0
+Antigua and Barbuda, ATG, 2007, 0.0, 0.0, 0.0, 0.0, 406704.0, 0.0
+Antigua and Barbuda, ATG, 2008, 0.0, 0.0, 0.0, 0.0, 417696.0, 0.0
+Antigua and Barbuda, ATG, 2009, 0.0, 0.0, 0.0, 0.0, 443344.0, 0.0
+Antigua and Barbuda, ATG, 2010, 0.0, 0.0, 0.0, 0.0, 454336.0, 0.0
+Antigua and Barbuda, ATG, 2011, 0.0, 0.0, 0.0, 0.0, 443344.0, 0.0
+Antigua and Barbuda, ATG, 2012, 0.0, 0.0, 0.0, 0.0, 458000.0, 0.0
+Antigua and Barbuda, ATG, 2013, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
+Antigua and Barbuda, ATG, 2014, 0.0, 0.0, 0.0, 0.0, 461664.0, 0.0
+Antigua and Barbuda, ATG, 2015, 0.0, 0.0, 0.0, 0.0, 479984.0, 0.0
+Antigua and Barbuda, ATG, 2016, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
+Antigua and Barbuda, ATG, 2017, 0.0, 0.0, 0.0, 0.0, 490976.0, 0.0
+Antigua and Barbuda, ATG, 2018, 0.0, 0.0, 0.0, 0.0, 498304.0, 0.0
+Antigua and Barbuda, ATG, 2019, 0.0, 0.0, 0.0, 0.0, 486373.0, 0.0
+Antigua and Barbuda, ATG, 2020, 0.0, 0.0, 0.0, 0.0, 430410.0, 0.0
+Argentina, ARG, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1855, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1856, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1859, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1860, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1861, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1862, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1863, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1865, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1866, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1868, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1869, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1870, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1871, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1872, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1873, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1874, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1877, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1878, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1879, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1880, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1881, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1882, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1883, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1885, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1886, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1887, 1084544.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1888, 890352.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1889, 1755056.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1890, 1370336.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1891, 937984.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1892, 1384992.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1893, 1553536.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1894, 1993216.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1895, 2264352.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1896, 2304656.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1897, 2081152.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1898, 2348624.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1899, 2920208.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1900, 2070160.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1901, 2491520.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1902, 2813952.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1903, 2861584.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1904, 3795904.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1905, 3982768.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1906, 6254448.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1907, 6254448.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Argentina, ARG, 1908, 7610128.0, 0.0, 0.0, 0.0, 7328.0, 0.0
+Argentina, ARG, 1909, 5924695.0, 0.0, 0.0, 0.0, 10985.0, 0.0
+Argentina, ARG, 1910, 8896197.0, 0.0, 0.0, 0.0, 10987.0, 0.0
+Argentina, ARG, 1911, 9936768.0, 0.0, 0.0, 0.0, 7328.0, 0.0
+Argentina, ARG, 1912, 9456784.0, 0.0, 0.0, 0.0, 21984.0, 0.0
+Argentina, ARG, 1913, 1.0086971E7, 0.0, 0.0, 0.0, 58645.0, 0.0
+Argentina, ARG, 1914, 8548059.0, 3666.0, 0.0, 0.0, 120963.0, 0.0
+Argentina, ARG, 1915, 6701330.0, 10998.0, 0.0, 0.0, 227288.0, 0.0
+Argentina, ARG, 1916, 4587034.0, 14667.0, 0.0, 0.0, 385003.0, 0.0
+Argentina, ARG, 1917, 1663456.0, 25648.0, 0.0, 0.0, 542272.0, 0.0
+Argentina, ARG, 1918, 1890624.0, 29312.0, 0.0, 0.0, 600896.0, 0.0
+Argentina, ARG, 1919, 3103408.0, 29312.0, 0.0, 0.0, 593568.0, 0.0
+Argentina, ARG, 1920, 5122272.0, 36640.0, 0.0, 0.0, 732800.0, 0.0
+Argentina, ARG, 1921, 4565344.0, 47632.0, 0.0, 0.0, 926992.0, 0.0
+Argentina, ARG, 1922, 5888756.0, 62257.0, 0.0, 0.0, 1347675.0, 0.0
+Argentina, ARG, 1923, 6843657.0, 76977.0, 0.0, 0.0, 1524886.0, 0.0
+Argentina, ARG, 1924, 8753296.0, 128240.0, 0.0, 0.0, 2077488.0, 0.0
+Argentina, ARG, 1925, 8350256.0, 164880.0, 0.0, 0.0, 2722352.0, 0.0
+Argentina, ARG, 1926, 7451337.0, 293215.0, 0.0, 0.0, 3514920.0, 0.0
+Argentina, ARG, 1927, 9257800.0, 260215.0, 0.0, 0.0, 3855584.0, 0.0
+Argentina, ARG, 1928, 8284304.0, 296784.0, 116297.0, 0.0, 4041392.0, 0.0
+Argentina, ARG, 1929, 8320944.0, 458000.0, 174446.0, 0.0, 4176960.0, 0.0
+Argentina, ARG, 1930, 8119424.0, 454336.0, 188983.0, 0.0, 4004752.0, 0.0
+Argentina, ARG, 1931, 6946944.0, 564256.0, 265303.0, 0.0, 5067312.0, 0.0
+Argentina, ARG, 1932, 6331392.0, 769440.0, 247131.0, 0.0, 5752480.0, 0.0
+Argentina, ARG, 1933, 5959314.0, 1033534.0, 254470.0, 0.0, 5984969.0, 0.0
+Argentina, ARG, 1934, 6580544.0, 1249424.0, 279840.0, 0.0, 6129872.0, 0.0
+Argentina, ARG, 1935, 6336714.0, 1055508.0, 356253.0, 0.0, 6248755.0, 0.0
+Argentina, ARG, 1936, 6987248.0, 912336.0, 410674.0, 0.0, 6785728.0, 0.0
+Argentina, ARG, 1937, 8157940.0, 864514.0, 512322.0, 0.0, 7176203.0, 0.0
+Argentina, ARG, 1938, 7395609.0, 839244.0, 614332.0, 0.0, 7498224.0, 0.0
+Argentina, ARG, 1939, 7764016.0, 886688.0, 556045.0, 0.0, 8170720.0, 0.0
+Argentina, ARG, 1940, 5369000.0, 916212.0, 534363.0, 0.0, 9044840.0, 0.0
+Argentina, ARG, 1941, 2685712.0, 1014928.0, 577851.0, 0.0, 9661968.0, 0.0
+Argentina, ARG, 1942, 1385368.0, 1154474.0, 530750.0, 0.0, 1.0408588E7, 0.0
+Argentina, ARG, 1943, 1549469.0, 1157523.0, 472334.0, 0.0, 1.0897564E7, 0.0
+Argentina, ARG, 1944, 1648800.0, 1132176.0, 534240.0, 0.0, 1.0636592E7, 0.0
+Argentina, ARG, 1945, 2044512.0, 1040576.0, 537874.0, 0.0, 1.0043024E7, 0.0
+Argentina, ARG, 1946, 3041120.0, 967296.0, 563314.0, 0.0, 9130688.0, 0.0
+Argentina, ARG, 1947, 3254453.0, 996860.0, 672512.0, 0.0, 9591108.0, 0.0
+Argentina, ARG, 1948, 5814768.0, 765776.0, 617828.0, 0.0, 1.0193248E7, 0.0
+Argentina, ARG, 1949, 3598048.0, 1135840.0, 715954.0, 0.0, 9914784.0, 0.0
+Argentina, ARG, 1950, 3561408.0, 0.0, 777737.0, 0.0, 2.5582048E7, 0.0
+Argentina, ARG, 1951, 5470352.0, 1417968.0, 770468.0, 0.0, 2.7304128E7, 0.0
+Argentina, ARG, 1952, 4506720.0, 1535216.0, 766834.0, 0.0, 2.9286352E7, 0.0
+Argentina, ARG, 1953, 3114400.0, 1194464.0, 817714.0, 0.0, 3.000816E7, 0.0
+Argentina, ARG, 1954, 3722253.0, 1208999.0, 843070.0, 0.0, 3.0976032E7, 0.0
+Argentina, ARG, 1955, 3209664.0, 1227440.0, 923108.0, 0.0, 3.4199776E7, 0.0
+Argentina, ARG, 1956, 3814224.0, 1304384.0, 1021234.0, 0.0, 3.8156896E7, 0.0
+Argentina, ARG, 1957, 3359888.0, 1458272.0, 1170239.0, 0.0, 4.1619376E7, 0.0
+Argentina, ARG, 1958, 3781248.0, 1480256.0, 1221119.0, 0.0, 3.7709888E7, 0.0
+Argentina, ARG, 1959, 3729952.0, 1472928.0, 1170239.0, 0.0, 4.257568E7, 0.0
+Argentina, ARG, 1960, 3905824.0, 2363280.0, 1304708.0, 0.0, 4.1190688E7, 0.0
+Argentina, ARG, 1961, 3539424.0, 4030400.0, 1435542.0, 0.0, 4.2121344E7, 0.0
+Argentina, ARG, 1962, 2007872.0, 5107616.0, 1446445.0, 0.0, 4.5078192E7, 0.0
+Argentina, ARG, 1963, 2304656.0, 5829424.0, 1253828.0, 0.0, 4.0644752E7, 0.0
+Argentina, ARG, 1964, 2557304.0, 6466534.0, 1439082.0, 0.0, 4.5207121E7, 0.0
+Argentina, ARG, 1965, 2601440.0, 7247392.0, 1631794.0, 0.0, 4.7324224E7, 0.0
+Argentina, ARG, 1966, 2586784.0, 7848288.0, 1722651.0, 2344960.0, 4.8569984E7, 0.0
+Argentina, ARG, 1967, 2938857.0, 8208278.0, 1755556.0, 2795945.0, 4.9777346E7, 0.0
+Argentina, ARG, 1968, 2366944.0, 9141680.0, 2064273.0, 2876240.0, 5.256008E7, 0.0
+Argentina, ARG, 1969, 2590448.0, 9105040.0, 2147862.0, 2832272.0, 6.0573248E7, 0.0
+Argentina, ARG, 1970, 3286608.0, 1.0281184E7, 2344113.0, 2810288.0, 6.3925808E7, 0.0
+Argentina, ARG, 1971, 2927536.0, 1.1021312E7, 2735801.0, 2843264.0, 6.9319216E7, 0.0
+Argentina, ARG, 1972, 2857920.0, 1.2468592E7, 2698560.0, 2744336.0, 6.9297232E7, 0.0
+Argentina, ARG, 1973, 2879904.0, 1.4187008E7, 2570099.0, 3129056.0, 7.120984E7, 0.0
 Argentina, ARG, 1974, 3367216.0, 1.4923472E7, 2674921.0, 3063104.0, 7.1451664E7, 0.0
 Argentina, ARG, 1975, 3594384.0, 1.5722224E7, 2714200.0, 3902160.0, 6.8912512E7, 0.0
 Argentina, ARG, 1976, 3239095.0, 1.6466621E7, 2841420.0, 5283682.0, 7.1868337E7, 0.0
@@ -4761,6 +4607,106 @@ Azerbaijan, AZE, 2017, 3664.0, 2.0892128E7, 928920.0, 2425568.0, 1.2479584E7, 0.
 Azerbaijan, AZE, 2018, 3664.0, 2.1284176E7, 1082954.0, 2667392.0, 1.1809072E7, 0.0
 Azerbaijan, AZE, 2019, 3664.0, 2.3199752E7, 1082954.0, 2667392.0, 1.1771369E7, 0.0
 Azerbaijan, AZE, 2020, 3664.0, 2.3405295E7, 1082954.0, 2667392.0, 1.0561157E7, 0.0
+Bahamas, BHS, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1778, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1779, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1780, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1781, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1782, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1783, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1784, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1786, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1787, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1788, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1789, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1790, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1791, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1792, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1793, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1794, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1795, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1797, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1798, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1799, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1800, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1801, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1802, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1806, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1808, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1809, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1810, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1811, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1813, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1814, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1819, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1820, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1822, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1823, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1826, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1827, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1828, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1829, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1830, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1831, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1832, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1833, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1835, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1836, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1839, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1840, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1841, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1842, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1843, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1844, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1845, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1846, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bahamas, BHS, 1849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Bahamas, BHS, 1850, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Bahamas, BHS, 1851, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Bahamas, BHS, 1852, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -9268,6 +9214,14 @@ Brunei, BRN, 2017, 0.0, 6822368.0, 0.0, 802416.0, 1927264.0, 0.0
 Brunei, BRN, 2018, 0.0, 7023888.0, 0.0, 663184.0, 1905280.0, 0.0
 Brunei, BRN, 2019, 0.0, 7331021.0, 0.0, 663184.0, 1963909.0, 0.0
 Brunei, BRN, 2020, 0.0, 7528649.0, 0.0, 663184.0, 1966661.0, 0.0
+Bulgaria, BGR, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Bulgaria, BGR, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Bulgaria, BGR, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Bulgaria, BGR, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Bulgaria, BGR, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -12512,6 +12466,29 @@ Christmas Island, CXR, 2017, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Christmas Island, CXR, 2018, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Christmas Island, CXR, 2019, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Christmas Island, CXR, 2020, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1767, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1768, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1770, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1771, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Colombia, COL, 1772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Colombia, COL, 1773, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Colombia, COL, 1774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Colombia, COL, 1775, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -23871,6 +23848,17 @@ Ghana, GHA, 2017, 0.0, 2359616.0, 1472474.0, 0.0, 9907456.0, 0.0
 Ghana, GHA, 2018, 0.0, 3003820.0, 1549972.0, 399288.0, 1.172955E7, 0.0
 Ghana, GHA, 2019, 0.0, 3138122.0, 1549972.0, 399376.0, 1.1830689E7, 0.0
 Ghana, GHA, 2020, 0.0, 3249054.0, 1549972.0, 399376.0, 1.0802928E7, 0.0
+Greece, GRC, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Greece, GRC, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Greece, GRC, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Greece, GRC, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Greece, GRC, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -31448,7 +31436,6 @@ Kosovo, OWID_KOS, 2017, 5602256.0, 0.0, 326096.0, 0.0, 2165424.0, 0.0
 Kosovo, OWID_KOS, 2018, 5664544.0, 0.0, 333424.0, 0.0, 2150768.0, 0.0
 Kosovo, OWID_KOS, 2019, 6584248.0, 0.0, 333424.0, 0.0, 2182110.0, 0.0
 Kosovo, OWID_KOS, 2020, 5529211.0, 0.0, 333424.0, 0.0, 2027516.0, 0.0
-Kuwait, KWT, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Kuwait, KWT, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Kuwait, KWT, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Kuwait, KWT, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -48250,7 +48237,6 @@ Portugal, PRT, 2017, 1.2406546E7, 1.2305273E7, 2530625.0, 1144149.0, 2.5964982E7
 Portugal, PRT, 2018, 1.0389202E7, 1.1327452E7, 2250869.0, 1047843.0, 2.5536425E7, 940622.0
 Portugal, PRT, 2019, 5039796.0, 1.2144298E7, 2225102.0, 1133223.0, 2.6180118E7, 906547.0
 Portugal, PRT, 2020, 2333610.0, 1.1864949E7, 2225102.0, 1133223.0, 2.1924386E7, 906547.0
-Puerto Rico, PRI, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Puerto Rico, PRI, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Puerto Rico, PRI, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Puerto Rico, PRI, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -58819,6 +58805,19 @@ Tajikistan, TJK, 2017, 3962677.0, 3666.0, 1523264.0, 0.0, 2375407.0, 0.0
 Tajikistan, TJK, 2018, 4191616.0, 109920.0, 1878546.0, 0.0, 2927536.0, 0.0
 Tajikistan, TJK, 2019, 3889724.0, 104049.0, 1878546.0, 0.0, 2761812.0, 0.0
 Tajikistan, TJK, 2020, 4986693.0, 114473.0, 1878546.0, 0.0, 2467943.0, 0.0
+Tanzania, TZA, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1755, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1756, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1757, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1759, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1760, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1761, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Tanzania, TZA, 1762, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Tanzania, TZA, 1763, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Tanzania, TZA, 1764, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Tanzania, TZA, 1765, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -65039,6 +65038,7 @@ World, OWID_WRL, 2017, 1.4453701688E10, 7.117014137E9, 1.500493304E9, 4.22856485
 World, OWID_WRL, 2018, 1.4718145232E10, 7.457571949E9, 1.566739734E9, 4.12217091E8, 1.2190054759E10, 3.0141102E8
 World, OWID_WRL, 2019, 1.4573219408E10, 7.553393814E9, 1.60847176E9, 4.3459552E8, 1.2229641805E10, 3.03180595E8
 World, OWID_WRL, 2020, 1.397609826E10, 7.39950939E9, 1.626370966E9, 4.3503355E8, 1.1072500907E10, 2.97746026E8
+Yemen, YEM, 1750, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Yemen, YEM, 1751, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Yemen, YEM, 1752, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
 Yemen, YEM, 1753, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0

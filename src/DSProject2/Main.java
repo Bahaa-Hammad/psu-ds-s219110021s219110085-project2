@@ -40,7 +40,7 @@ public class Main {
         //InputStream inputStream = Main.class.getClass().getResourceAsStream("\\" + args[0]);
         //ArrayList<Node> inputData = input(inputStream);
 
-        System.out.println("Total time to read data: " + stopwatch.elapsedTime() + " seconds");
+        //System.out.println("Total time to read data: " + stopwatch.elapsedTime() + " seconds");
 
         String outputFileName = args[1];
         int hashingCol = Integer.parseInt(args[2]);
@@ -54,6 +54,8 @@ public class Main {
             for (int i = 0; i < inputData.size(); i++) {
                 probTable.add(inputData.get(i));
             }
+
+            System.out.println("Total time to read data: " + stopwatch.elapsedTime() + " seconds");
 
             // Deleting:
             System.out.println("Searching and removing "+ cells +"...");
@@ -75,7 +77,7 @@ public class Main {
             System.out.println("Writing data to output file...");
             stopwatch = new Time();
             probTable.output(outputFileName);
-            System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
+            //System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
 
             System.out.println("Propping Load Factor: " + probTable.loadFactor());
@@ -88,6 +90,7 @@ public class Main {
                 chainedTable.add(inputData.get(i));
             }
 
+            System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
             // Deleting:
             System.out.println("Searching and removing "+ cells +"...");
