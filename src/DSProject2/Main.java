@@ -36,7 +36,7 @@ public class Main {
         Time stopwatch = new Time();
         ArrayList<Node> inputData = new ArrayList<>();
         try {
-            inputData = input(inFile.getCanonicalFile());
+            inputData = input(inFile);
         }catch (Exception FileNotFoundException){
             throw new FileNotFoundException("Enter The Full Path For The Input CSV File or Change Directory To Where The File Exists");
         }
