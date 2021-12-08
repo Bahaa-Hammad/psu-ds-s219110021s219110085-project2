@@ -27,7 +27,7 @@ public class Main {
 
         cells = cells.trim(); // To get rid of extra spaces
         String[] removeKeys = cells.split(",");
-        System.out.println(Arrays.toString(removeKeys));
+        System.out.println("Remove Keys: "+ Arrays.toString(removeKeys));
 
 
         File inFile = new File(args[0]);
@@ -71,9 +71,9 @@ public class Main {
             }
             System.out.println("Total time to remove data: " + stopwatch.elapsedTime() + " seconds");
 
-            for (int i = 0; i < removeKeys.length; i++) {
+            /*for (int i = 0; i < removeKeys.length; i++) { // For Testing Purposes.
                 System.out.println("Prop: " +probTable.search(removeKeys[i]));
-            }
+            }*/
 
             // Writing:
             System.out.println("Writing data to output file...");
@@ -82,8 +82,8 @@ public class Main {
             System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
 
-            System.out.println("Propping Load Factor: " + probTable.loadFactor());
-            System.out.println("Occupied In Probing: " + probTable.occupiedCells);
+            //System.out.println("Propping Load Factor: " + probTable.loadFactor());
+            //System.out.println("Occupied In Probing: " + probTable.occupiedCells);
 
         }else if (args[4].equals("2")) { // Chaining
             Chaining chainedTable = new Chaining(n , p , hashingCol);
@@ -105,9 +105,9 @@ public class Main {
             }
             System.out.println("Total time to remove data: " + stopwatch.elapsedTime() + " seconds");
 
-            for (int i = 0; i < removeKeys.length; i++) {
+            /*for (int i = 0; i < removeKeys.length; i++) {   Used For Testing Purposes
                 System.out.println("Chain: " + chainedTable.search(removeKeys[i]));
-            }
+            }*/
 
 
             // Writing:
@@ -116,8 +116,8 @@ public class Main {
             System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
 
-            System.out.println("Chaining Load Factor: " + chainedTable.loadFactor());
-            System.out.println("Occupied in ChainTable "+chainedTable.occupiedCells);
+            //System.out.println("Chaining Load Factor: " + chainedTable.loadFactor());
+            //System.out.println("Occupied in ChainTable "+chainedTable.occupiedCells);
 
 
         }else {
