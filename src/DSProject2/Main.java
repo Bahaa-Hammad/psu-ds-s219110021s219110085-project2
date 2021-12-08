@@ -30,11 +30,18 @@ public class Main {
         System.out.println(Arrays.toString(removeKeys));
 
 
-
+        File inFile = new File(args[0]);
         // Reading:
         System.out.println("Reading data...");
         Time stopwatch = new Time();
-        ArrayList<Node> inputData = input(new File(args[0]));
+        ArrayList<Node> inputData = new ArrayList<>();
+        try {
+            inputData = input(inFile.getCanonicalFile());
+        }catch (Exception FileNotFoundException){
+            throw new FileNotFoundException("Enter The Full Path For The Input CSV File or Change Directory To Where The File Exists");
+        }
+
+
 
 
         String outputFileName = args[1];
@@ -120,26 +127,12 @@ public class Main {
 
 
 
-    public static ArrayList input(File file) throws IOException { // Returns ArrayList of nodes containing file data
+    public static ArrayList<Node> input(File file) throws IOException { // Returns ArrayList of nodes containing file data
         BufferedReader br = new BufferedReader(new FileReader(file));
         String line = " ";
         String[] input;
         ArrayList<Node> nodes = new ArrayList<>();
         while ((line = br.readLine()) != null) {
-            input = line.split(","); // CSV
-            Node node = new Node(input);
-            nodes.add(node);
-        }
-        return nodes;
-    }
-
-
-    public static ArrayList input(InputStream in) throws IOException { // Returns ArrayList of nodes containing file data
-        BufferedReader reader = new BufferedReader(new InputStreamReader(in));
-        String line = " ";
-        String[] input;
-        ArrayList<Node> nodes = new ArrayList<>();
-        while ((line = reader.readLine()) != null) {
             input = line.split(","); // CSV
             Node node = new Node(input);
             nodes.add(node);
