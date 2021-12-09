@@ -92,19 +92,26 @@ public class Main {
                 chainedTable.add(inputData.get(i));
             }
 
-            System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
+            System.out.println("Total time to Read data: " + stopwatch.elapsedTime() + " seconds");
+
+            //System.out.println("Chaining Load Factor: " + chainedTable.loadFactor());
+            //System.out.println("Occupied in ChainTable "+chainedTable.occupiedCells);
 
             // Deleting:
             System.out.println("Searching and removing "+ cells +"...");
             stopwatch = new Time();
+
             for (int i = 0; i < removeKeys.length; i++) {
-                chainedTable.delete(removeKeys[i]);
+
+                while (chainedTable.delete(removeKeys[i]) != null){
+                    chainedTable.delete(removeKeys[i]);
+                }
             }
             System.out.println("Total time to remove data: " + stopwatch.elapsedTime() + " seconds");
 
-            for (int i = 0; i < removeKeys.length; i++) {   //Used For Testing Purposes
-                System.out.println("Chain: " + chainedTable.search(removeKeys[i]));
-            }
+            //for (int i = 0; i < removeKeys.length; i++) {   //Used For Testing Purposes
+            //    System.out.println("Chain: " + chainedTable.search(removeKeys[i]));
+            //}
 
 
             // Writing:
@@ -112,9 +119,6 @@ public class Main {
             chainedTable.output(outputFileName);
             System.out.println("Total time to write data: " + stopwatch.elapsedTime() + " seconds");
 
-
-            //System.out.println("Chaining Load Factor: " + chainedTable.loadFactor());
-            //System.out.println("Occupied in ChainTable "+chainedTable.occupiedCells);
 
 
         }else {

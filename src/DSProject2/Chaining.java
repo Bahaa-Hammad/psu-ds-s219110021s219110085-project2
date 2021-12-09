@@ -118,55 +118,65 @@ public class Chaining {
         }
     }
 
-    public SLL deleteConName(String key) {
+    public Node deleteConName(String key) {
 
         int hashedKey = Hashing.stringHash(key , this.p); // Get index of the list by hashing the given key
         // Search for the element in the list at the hashedKey:
         SNode<Node> current = chainedTable[hashedKey].head;
+        int pos = 0;
+        while (current != null){
 
-        if (current.getItem().conName.equals(key)){
-            SLL del = chainedTable[hashedKey];
-            chainedTable[hashedKey] = null;
-            return del;
+            if (current.getItem().conName.equals(key)) {
+                return chainedTable[hashedKey].deletePos(pos);
+            }
+
+            current = current.getNext();
+            pos++;
         }
         return null; // Not found
     }
 
 
-    public SLL deleteConCode(String key) {
+    public Node deleteConCode(String key) {
 
         int hashedKey = Hashing.stringHash(key , this.p); // Get index of the list by hashing the given key
 
         // Search for the element in the list at the hashedKey:
         SNode<Node> current = chainedTable[hashedKey].head;
+        int pos = 0;
+        while (current != null){
 
-        if (current.getItem().conCode.equals(key)){
-            SLL del = chainedTable[hashedKey];
-            chainedTable[hashedKey] = null;
-            return del;
+            if (current.getItem().conCode.equals(key)) {
+                return chainedTable[hashedKey].deletePos(pos);
+            }
+            current = current.getNext();
+            pos++;
         }
 
         return null; // Not found
     }
 
 
-    public SLL deleteYear(int key) {
+    public Node deleteYear(int key) {
 
         int hashedKey = Hashing.intHash(key , this.p); // Get index of the list by hashing the given key
 
         // Search for the element in the list at the hashedKey:
         SNode<Node> current = chainedTable[hashedKey].head;
+        int pos = 0;
+        while (current != null){
 
-        if (current.getItem().year == key){
-            SLL del = chainedTable[hashedKey];
-            chainedTable[hashedKey] = null;
-            return del;
+            if (current.getItem().year == key) {
+                return chainedTable[hashedKey].deletePos(pos);
+            }
+            current = current.getNext();
+            pos++;
         }
         return null; // Not found
     }
 
 
-    public SLL delete(String key){
+    public Node delete(String key){
         if (hashCol == 1){
             return deleteConName(key);
         }
