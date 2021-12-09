@@ -98,16 +98,13 @@ public class Main {
             System.out.println("Searching and removing "+ cells +"...");
             stopwatch = new Time();
             for (int i = 0; i < removeKeys.length; i++) {
-
-                while (chainedTable.delete(removeKeys[i]) != null){
-                    chainedTable.delete(removeKeys[i]);
-                }
+                chainedTable.delete(removeKeys[i]);
             }
             System.out.println("Total time to remove data: " + stopwatch.elapsedTime() + " seconds");
 
-            /*for (int i = 0; i < removeKeys.length; i++) {   Used For Testing Purposes
+            for (int i = 0; i < removeKeys.length; i++) {   //Used For Testing Purposes
                 System.out.println("Chain: " + chainedTable.search(removeKeys[i]));
-            }*/
+            }
 
 
             // Writing:

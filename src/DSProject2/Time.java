@@ -14,7 +14,8 @@ public class Time {
 
     public double elapsedTimeNano() {
         long now = System.nanoTime();
-        return (now - startNano) / 1000.0;
+        long l = (now - startNano) / 1000000000;
+        return l;
     }
 
 }

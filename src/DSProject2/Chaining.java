@@ -3,12 +3,9 @@ package DSProject2;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.LinkedList;
 
 public class Chaining {
-    LinkedList<Node>[] chainedTable;  // Array Of linkedLists
+    SLL<Node>[] chainedTable;  // Array Of linkedLists
     int p;
     int hashCol;
     double occupiedCells;
@@ -18,11 +15,11 @@ public class Chaining {
     public Chaining(int hashtableSize , int p , int hashCol){
         this.hashtableSize = hashtableSize;
         // Creating array
-        chainedTable = new LinkedList[hashtableSize];
+        chainedTable = new SLL[hashtableSize];
 
         // Creating LinkedList at each index in an array:
         for (int i = 0; i < hashtableSize; i++) {
-            chainedTable[i] = new LinkedList<Node>();
+            chainedTable[i] = new SLL<Node>();
         }
 
         this.p = p;
@@ -35,22 +32,28 @@ public class Chaining {
         // Get index of hashing
         int hashedInx = Hashing.hash(element, this.p , this.hashCol);
         // Adding the element node in a LinkedList at the hashed index.
-        chainedTable[hashedInx].add(element);
+        chainedTable[hashedInx].insertAtHead(element);
     }
 
     // Search Methods:
 
     public Node searchConName(String key){
         // Get the hashedKey for the given input -> so we avoid searching the whole array.
-
         int hashedKey = Hashing.stringHash(key , this.p);
-        //Create iterator for the list at the hashed Key:
-        Iterator iter = chainedTable[hashedKey].iterator();
-        while (iter.hasNext()){
-            Node node = (Node) iter.next(); // Save it to return if it matches the key
+
+        if (chainedTable[hashedKey] == null){
+            return null;
+        }
+
+        SNode<Node> current = chainedTable[hashedKey].head;
+
+        while (current.getNext() != null){
+
+            Node node = current.getItem(); // Save it to return if it matches the key
             if (node.conName.equals(key)){ // compare based on the countryName
                 return node;
             }
+            current = current.getNext();
         }
         return null;
     }
@@ -60,13 +63,19 @@ public class Chaining {
         // Get the hashedKey for the given input -> so we avoid searching the whole array.
 
         int hashedKey = Hashing.stringHash(key, this.p);
-        //Create iterator for the list at the hashed Key:
-        Iterator iter = chainedTable[hashedKey].iterator();
-        while (iter.hasNext()){
-            Node node = (Node) iter.next(); // Save it to return if it matches the key
-            if (node.conCode.equals(key)){ // compare based on the countryCode
+
+        if (chainedTable[hashedKey] == null){
+            return null;
+        }
+
+        SNode<Node> current = chainedTable[hashedKey].head;
+        while (current.getNext() != null){
+
+            Node node = current.getItem(); // Save it to return if it matches the key
+            if (node.conCode.equals(key)){ // compare based on the countryName
                 return node;
             }
+            current = current.getNext();
         }
         return null;
     }
@@ -77,12 +86,20 @@ public class Chaining {
 
         int hashedKey = Hashing.intHash(key , this.p);
         //Create iterator for the list at the hashed Key:
-        Iterator iter = chainedTable[hashedKey].iterator();
-        while (iter.hasNext()){
-            Node node = (Node) iter.next(); // Save it to return if it matches the key
-            if (node.year == key){ // compare based on the year
+
+        if (chainedTable[hashedKey] == null){
+            return null;
+        }
+
+
+        SNode<Node> current = chainedTable[hashedKey].head;
+        while (current.getNext() != null){
+
+            Node node = current.getItem(); // Save it to return if it matches the key
+            if (node.year == key){ // compare based on the countryName
                 return node;
             }
+            current = current.getNext();
         }
         return null;
     }
@@ -101,64 +118,55 @@ public class Chaining {
         }
     }
 
-    public Node deleteConName(String key) {
+    public SLL deleteConName(String key) {
 
         int hashedKey = Hashing.stringHash(key , this.p); // Get index of the list by hashing the given key
-        int pos = -1; // To keep track of the element pos in the linkedList
-
         // Search for the element in the list at the hashedKey:
-        Iterator iter = chainedTable[hashedKey].iterator();
-        while (iter.hasNext()) {
-            Node node = (Node) iter.next();
-            pos++;
-            if (node.conName.equals(key)) { // compare based on the countryName
-                chainedTable[hashedKey].remove(pos);
-                return node;
-            }
+        SNode<Node> current = chainedTable[hashedKey].head;
+
+        if (current.getItem().conName.equals(key)){
+            SLL del = chainedTable[hashedKey];
+            chainedTable[hashedKey] = null;
+            return del;
         }
         return null; // Not found
     }
 
 
-    public Node deleteConCode(String key) {
+    public SLL deleteConCode(String key) {
 
         int hashedKey = Hashing.stringHash(key , this.p); // Get index of the list by hashing the given key
-        int pos = -1; // To keep track of the element pos in the linkedList
 
         // Search for the element in the list at the hashedKey:
-        Iterator iter = chainedTable[hashedKey].iterator();
-        while (iter.hasNext()) {
-            Node node = (Node) iter.next();
-            pos++;
-            if (node.conCode.equals(key)) { // compare based on the countryName
-                chainedTable[hashedKey].remove(pos);
-                return node;
-            }
+        SNode<Node> current = chainedTable[hashedKey].head;
+
+        if (current.getItem().conCode.equals(key)){
+            SLL del = chainedTable[hashedKey];
+            chainedTable[hashedKey] = null;
+            return del;
         }
+
         return null; // Not found
     }
 
 
-    public Node deleteYear(int key) {
+    public SLL deleteYear(int key) {
 
         int hashedKey = Hashing.intHash(key , this.p); // Get index of the list by hashing the given key
-        int pos = -1; // To keep track of the element pos in the linkedList
 
         // Search for the element in the list at the hashedKey:
-        Iterator iter = chainedTable[hashedKey].iterator();
-        while (iter.hasNext()) {
-            Node node = (Node) iter.next();
-            pos++;
-            if (node.year == key) { // compare based on the countryName
-                chainedTable[hashedKey].remove(pos);
-                return node;
-            }
+        SNode<Node> current = chainedTable[hashedKey].head;
+
+        if (current.getItem().year == key){
+            SLL del = chainedTable[hashedKey];
+            chainedTable[hashedKey] = null;
+            return del;
         }
         return null; // Not found
     }
 
 
-    public Node delete(String key){
+    public SLL delete(String key){
         if (hashCol == 1){
             return deleteConName(key);
         }
@@ -180,7 +188,7 @@ public class Chaining {
     public double loadFactor(){
 
         for (int i = 0; i < hashtableSize; i++) {
-            if (chainedTable[i].peek() != null){
+            if (chainedTable[i].head != null){
                 occupiedCells++;
             }
         }
@@ -198,11 +206,7 @@ public class Chaining {
             }
             else {
                 System.out.print("Index " + i + ": ");
-                Iterator<Node> iter = chainedTable[i].iterator();
-                while (iter.hasNext()) {
-                    System.out.print(iter.next().toString());
-                    System.out.print("->");
-                }
+                chainedTable[i].printList();
             }
         }
     }
@@ -214,9 +218,13 @@ public class Chaining {
 
         for (int i = 0; i < chainedTable.length; i++) {
 
-            Iterator iter = chainedTable[i].iterator();
-            while (iter.hasNext()){
-                Node node = (Node) iter.next();
+            SLL currentList = chainedTable[i];
+            if (currentList == null){
+                continue;
+            }
+
+            for(int l = 0; l < currentList.size; l++){
+                Node node = (Node) currentList.findElementPos(l);
                 pw.printf("%s, %s, %d" , node.conName , node.conCode , node.year);
 
                 for (int j = 0; j < node.value.length; j++) {
